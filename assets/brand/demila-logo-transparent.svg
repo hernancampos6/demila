@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1253" height="832" viewBox="0 0 1253 832">
+  <defs>
+    <filter id="removeCheckerboard" color-interpolation-filters="sRGB">
+      <!-- The source JPEG has a neutral gray checkerboard. This makes neutral pixels transparent while retaining the brand colors. -->
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  3 0 -3 0 0"/>
+    </filter>
+  </defs>
+  <image href="demila-logo-source.jpeg" width="1253" height="832" filter="url(#removeCheckerboard)"/>
+</svg>

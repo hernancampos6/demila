@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="DEMILA fabrica prendas de punto para marcas, boutiques y negocios. Personaliza tu colección desde 24 unidades por modelo y color." />
+    <title>DEMILA — Fábrica Textil</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="cart.css" />
+    <link rel="stylesheet" href="product-config.css" />
+    <link rel="stylesheet" href="hero-cta.css" />
+    <link rel="stylesheet" href="catalog-filters.css" />
+    <link rel="stylesheet" href="uniforms.css" />
+    <link rel="stylesheet" href="maire-theme.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand brand-logo" href="#inicio" aria-label="DEMILA, inicio"><img src="assets/brand/demila-logo-transparent.png" alt="DEMILA" /><span class="brand-descriptor">Fábrica Textil</span></a>
+      <button class="menu-toggle" aria-label="Abrir menú">Menú</button>
+      <nav aria-label="Principal"><a href="#catalogo">Catálogo</a><a href="#personalizado">Diseña tu modelo</a><a href="#uniformes">Uniformes</a><a href="#proceso">Cómo funciona</a><a href="#historia">Nosotros</a></nav>
+      <div class="header-actions"><button class="account-toggle" data-open-account>Mi cuenta</button><button class="cart-toggle" data-open-cart aria-label="Abrir carrito">Carrito <span id="cart-count" aria-live="polite">0</span></button></div>
+    </header>
+
+    <main>
+      <section class="hero" id="inicio">
+        <div class="hero-copy">
+          <p class="eyebrow">LIMA, PERÚ · MÁS DE 38 AÑOS</p>
+          <h1>Tejidos que llevan <em>tu marca</em> más lejos.</h1>
+          <p class="hero-text">Diseñamos y producimos colecciones en tejido de punto pensadas para boutiques y negocios retail que no se conforman con lo estándar: personalización, flexibilidad y cuidado en cada detalle.</p>
+          <div class="hero-actions" aria-label="Elige cómo empezar"><a class="hero-path hero-path-primary" href="#catalogo"><span>VENTA MAYORISTA</span><strong>Explorar catálogo</strong><small>Modelos Demila listos para personalizar y comprar al por mayor</small><b>→</b></a><a class="hero-path" href="#personalizado"><span>DESARROLLO A MEDIDA</span><strong>Diseño propio</strong><small>Para boutiques que buscan confeccionar su propia colección</small><b>→</b></a><a class="hero-path" href="#uniformes"><span>UNIFORMES TEJIDOS</span><strong>Uniformes</strong><small>Soluciones para colegios y empresas, con cotización a medida</small><b>→</b></a></div>
+          <div class="hero-stats"><div><b>+38</b><span>años de experiencia</span></div><div><b>24</b><span>unidades mínimas por color</span></div><div><b>20</b><span>días útiles aprox.</span></div></div>
+        </div>
+        <div class="hero-image hero-carousel" aria-label="Colección de tejidos DEMILA">
+          <img class="hero-slide is-active" src="assets/hero/codex-clipboard-fe7ce683-69ef-4828-a089-26eab7d98be6.jpg" alt="Cardigan verde de punto DEMILA" />
+          <img class="hero-slide" src="assets/hero/codex-clipboard-053be5f7-646f-4730-9a20-97a037f3695c.jpg" alt="Chompa trenzada verde DEMILA" />
+          <img class="hero-slide" src="assets/hero/codex-clipboard-bc7ae82a-828a-4687-8042-860b3cd1ffd6.jpg" alt="Conjunto de punto color crudo DEMILA" />
+          <img class="hero-slide" src="assets/hero/codex-clipboard-40783ed0-ed47-492c-8f83-c64f335d7e17.jpg" alt="Polo de punto color crudo DEMILA" />
+          <img class="hero-slide" src="assets/hero/codex-clipboard-8a2f0066-6c46-46cf-a637-11aa90013213.jpg" alt="Top tejido color crudo DEMILA" />
+          <img class="hero-slide" src="assets/hero/codex-clipboard-e026e6eb-8eaf-43f0-b464-4f24d984440c.jpg" alt="Cardigan amarillo de punto DEMILA" />
+          <p>Hecho para tu colección</p><div class="hero-dots" aria-label="Cambiar imagen"></div>
+        </div>
+      </section>
+
+      <section class="trust-bar" aria-label="Capacidades de DEMILA"><span>TEJIDO DE PUNTO</span><i></i><span>DESARROLLO DE MUESTRAS</span><i></i><span>MARCA PRIVADA</span><i></i><span>PRODUCCIÓN IN-HOUSE</span></section>
+
+      <section class="catalog-section" id="catalogo">
+        <div class="section-heading"><div><p class="eyebrow">MODELOS BASE</p><h2>Elige un punto de partida.</h2></div><p>Personaliza cada modelo con tus colores, tallas, composición, acabados y branding.</p></div>
+        <div class="catalog-tools"><div class="catalog-filter-stack"><div class="audience-filters" aria-label="Selecciona una línea"><button class="audience-filter is-active" data-audience="mujer">Mujer</button><button class="audience-filter" data-audience="hombre">Hombre</button><button class="audience-filter" data-audience="ninos">Niños</button></div><div class="garment-filters" id="garment-filters" aria-label="Filtrar por tipo de prenda"></div></div><p><span id="product-count">13</span> modelos</p></div>
+        <div class="product-grid" id="product-grid"></div>
+      </section>
+
+      <section class="custom-section" id="personalizado">
+        <div class="custom-image"><img src="assets/catalog/IMG_3445.JPEG" alt="Cardigan de punto beige personalizado" /></div>
+        <div class="custom-copy"><p class="eyebrow">DESARROLLA TU DISEÑO</p><h2>Tu idea, llevada a producción.</h2><p>¿Buscas algo fuera del catálogo? Envíanos un boceto, foto de referencia o ficha técnica. Te acompañamos desde la muestra hasta la entrega final.</p><ul><li>Asesoría de material, punto y construcción</li><li>Desarrollo de muestra y tallaje</li><li>Tejido, confección, acabados y branding</li></ul><button class="button button-light" data-open-custom>Cuéntanos tu proyecto <span>→</span></button></div>
+      </section>
+      <section class="uniform-section" id="uniformes"><div class="uniform-copy"><p class="eyebrow">UNIFORMES EN TEJIDO DE PUNTO</p><h2>Tu institución, bien representada.</h2><p>Desarrollamos uniformes tejidos para colegios y organizaciones: prendas pensadas para el uso diario, la identidad de tu institución y una producción confiable.</p><ul><li>Modelos, colores y tallas para tu institución</li><li>Escudos, bordados y acabados personalizados</li><li>Asesoría para definir la propuesta ideal</li></ul><button class="button button-dark" data-open-uniform>Solicitar cotización de uniformes <span>→</span></button></div><aside class="uniform-catalog"><p>MODELOS REFERENCIALES</p><div class="uniform-gallery"><figure><img src="assets/catalog/uniformes/cardigan-azul-femenino.png" alt="Cárdigan azul de uniforme femenino" /><figcaption>Cárdigan institucional femenino</figcaption></figure><figure><img src="assets/catalog/uniformes/cardigan-rojo-nino.png" alt="Cárdigan rojo de uniforme infantil" /><figcaption>Cárdigan institucional infantil</figcaption></figure><figure><img src="assets/catalog/uniformes/cardigan-vino-nina.png" alt="Cárdigan vino de uniforme infantil" /><figcaption>Cárdigan institucional infantil</figcaption></figure></div></aside></section>
+
+      <section class="process-section" id="proceso"><p class="eyebrow">DEL DISEÑO A LA ENTREGA</p><h2>Un proceso claro para tu marca.</h2><div class="process-grid"><article><span>01</span><h3>Elige o comparte</h3><p>Selecciona un modelo del catálogo o comparte tu propia referencia.</p></article><article><span>02</span><h3>Personaliza</h3><p>Definimos tallas, colores, materiales, branding y cantidades.</p></article><article><span>03</span><h3>Confirma</h3><p>Validamos la cotización y muestras.</p></article><article><span>04</span><h3>Recibe</h3><p>Producción de hasta 20 días útiles. Recojo en tienda o delivery.</p></article></div></section>
+
+      <section class="story-section" id="historia"><div class="story-copy"><p class="eyebrow">NUESTRA HISTORIA</p><h2>Una historia tejida con oficio y visión.</h2><p>DEMILA nació en Lima hace más de 38 años. Desde entonces, hemos acompañado a marcas a transformar ideas en prendas de punto que llegan a sus clientes.</p><p>Hoy unimos la experiencia artesanal de nuestro equipo con la precisión de la producción moderna para ofrecer colecciones cuidadosamente construidas.</p><a class="text-link" href="mailto:creacionesdemila@outlook.com">Conoce más de DEMILA <span>→</span></a></div><figure><img src="assets/demila-historia-restaurada.jpg" alt="Julio Hernán, fundador de DEMILA, en una fotografía histórica" /><figcaption>Julio Hernán, fundador de DEMILA · Años 90</figcaption></figure></section>
+
+      <section class="faq-section"><div><p class="eyebrow">PREGUNTAS FRECUENTES</p><h2>Lo esencial, antes de empezar.</h2></div><div class="faq-list"><details open><summary>¿Cuál es el pedido mínimo?</summary><p>El mínimo estándar es de 24 unidades por combinación de modelo y color. La distribución de tallas y opciones se valida durante la cotización.</p></details><details><summary>¿Qué materiales trabajan?</summary><p>Trabajamos Tacto Algodón, Dralon, Caribe HV y otras opciones de acuerdo con el diseño y el uso de la prenda.</p></details><details><summary>¿Puedo usar mi etiqueta y empaque?</summary><p>Sí. Podemos cotizar etiquetas, hangtags, bolsas y otras opciones de branding para tu marca.</p></details><details><summary>¿Entregan fuera de Lima?</summary><p>Atendemos todo Perú y coordinamos envíos internacionales. Puedes recoger en tienda o solicitar delivery con el pedido previamente cancelado.</p></details></div></section>
+    </main>
+
+    <footer><div class="footer-brand"><a class="brand brand-logo brand-light" href="#inicio"><img src="assets/brand/demila-logo-transparent.png" alt="DEMILA" /><span class="brand-descriptor">Fábrica Textil</span></a><p>Prendas de punto para marcas que quieren crecer.</p></div><div><h4>Contacto</h4><a href="https://wa.me/51989923945" target="_blank" rel="noreferrer">WhatsApp +51 989 923 945</a><a href="tel:+51940172505">+51 940 172 505</a><a href="mailto:creacionesdemila@outlook.com">creacionesdemila@outlook.com</a></div><div><h4>Ubicación</h4><p><a class="location-link" href="https://www.google.com/maps/place/F%C3%A1brica+Textil+Demila/@-12.0457385,-77.043438,17z/data=!3m1!4b1!4m6!3m5!1s0x9105c96ed771be27:0xa1cb6f42c52f7137!8m2!3d-12.0457438!4d-77.0408631!16s%2Fg%2F11nq2yf7gd?entry=ttu&amp;g_ep=EgoyMDI2MDkwOS4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noreferrer">Av. Guillermo Dansey 67<br />Lima 15001, Perú ↗</a></p><a href="https://www.instagram.com/demila_fabricatextil/" target="_blank" rel="noreferrer">Instagram ↗</a></div><div class="footer-bottom">© <span id="year"></span> Creaciones Demila SAC · RUC 20565519485</div></footer>
+
+    <dialog id="product-dialog" class="dialog"><button class="dialog-close" aria-label="Cerrar">×</button><div id="dialog-content"></div></dialog>
+    <dialog id="custom-dialog" class="dialog form-dialog"><button class="dialog-close" aria-label="Cerrar">×</button><div id="custom-form-content"></div></dialog>
+    <dialog id="cart-dialog" class="dialog cart-dialog"><button class="dialog-close" aria-label="Cerrar">×</button><div id="cart-content"></div></dialog>
+    <dialog id="account-dialog" class="dialog form-dialog"><button class="dialog-close" aria-label="Cerrar">×</button><div id="account-content"></div></dialog>
+    <dialog id="uniform-dialog" class="dialog form-dialog"><button class="dialog-close" aria-label="Cerrar">×</button><div id="uniform-form-content"></div></dialog>
+    <script src="catalog-data.js"></script><script src="app.js"></script>
+  </body>
+</html>
