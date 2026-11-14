@@ -9,3 +9,6 @@
 .category-label{text-align:center;line-height:1.3}
 @media(max-width:900px){.category-strip-list{justify-content:flex-start}}
 @media(max-width:500px){.category-chip{width:72px}.category-circle{width:62px;height:62px}.category-label{font-size:10px}}
+
+#catalogo,#uniformes,#personalizado,#historia,#proceso{scroll-margin-top:140px}
+@media(max-width:500px){#catalogo,#uniformes,#personalizado,#historia,#proceso{scroll-margin-top:110px}}
