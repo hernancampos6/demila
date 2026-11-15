@@ -339,7 +339,7 @@ const products = [
     "id": "NI-030",
     "name": "Chompa Mateo",
     "audience": "ninos",
-    "garment": "chompas",
+    "garment": "conjuntos",
     "image": "ninos/NI-030_fair-isle-verde.jpg",
     "images": [
       "ninos/NI-030_fair-isle-verde.jpg",
@@ -347,6 +347,24 @@ const products = [
     ],
     "colors": [
       "Verde/beige"
+    ],
+    "type": "Conjunto",
+    "knit": "Punto",
+    "details": "Tejido de punto para bebé · confirma tallas y colores"
+  },
+  {
+    "id": "NI-031",
+    "name": "Chompa Tomás",
+    "audience": "ninos",
+    "garment": "chompas",
+    "image": "ninos/NI-031_rojo-fair-isle.jpg",
+    "images": [
+      "ninos/NI-031_rojo-fair-isle.jpg",
+      "ninos/NI-031_melange-fair-isle.jpg"
+    ],
+    "colors": [
+      "Rojo",
+      "Melange"
     ],
     "type": "Chompa",
     "knit": "Punto",
@@ -361,7 +379,8 @@ const products = [
     "images": [
       "ninos/NI-025_rosado-cable-a.jpg",
       "ninos/NI-025_rosado-cable-b.jpg",
-      "ninos/NI-025_yogurt-cable.jpg"
+      "ninos/NI-025_yogurt-cable.jpg",
+      "ninos/NI-025_madre-hija-cable.jpg"
     ],
     "colors": [
       "Rosado",
