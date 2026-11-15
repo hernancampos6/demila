@@ -1952,9 +1952,10 @@ const products = [
     "name": "Top Calado Oliva",
     "audience": "mujer",
     "garment": "top",
-    "image": "mujer/TP-007_top-calado-oliva-verde-oliva.jpg",
+    "image": "mujer/TP-007_top-calado-oliva-verde-oliva-1.jpg",
     "images": [
-      "mujer/TP-007_top-calado-oliva-verde-oliva.jpg"
+      "mujer/TP-007_top-calado-oliva-verde-oliva-1.jpg",
+      "mujer/TP-007_top-calado-oliva-verde-oliva-2.jpg"
     ],
     "colors": [
       "Verde oliva"
