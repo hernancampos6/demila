@@ -1752,14 +1752,16 @@ const products = [
     "garment": "chompas",
     "image": "mujer/SW-009_sweater-trenzado-crudo.jpg",
     "images": [
-      "mujer/SW-009_sweater-trenzado-crudo.jpg"
+      "mujer/SW-009_sweater-trenzado-crudo.jpg",
+      "mujer/SW-011_sweater-v-blanco.jpg"
     ],
     "colors": [
-      "Crudo"
+      "Crudo",
+      "Blanco"
     ],
     "type": "Sweater",
     "knit": "Punto",
-    "details": "Cuello redondo · trenzas"
+    "details": "Escote V · trenzas · manga amplia"
   },
   {
     "id": "TP-005",
@@ -1796,22 +1798,6 @@ const products = [
     "type": "Sweater",
     "knit": "Punto",
     "details": "Cuello redondo · trenzas"
-  },
-  {
-    "id": "SW-011",
-    "name": "Sweater V",
-    "audience": "mujer",
-    "garment": "chompas",
-    "image": "mujer/SW-011_sweater-v-blanco.jpg",
-    "images": [
-      "mujer/SW-011_sweater-v-blanco.jpg"
-    ],
-    "colors": [
-      "Blanco"
-    ],
-    "type": "Sweater",
-    "knit": "Punto",
-    "details": "Escote V · manga amplia"
   },
   {
     "id": "SW-012",
