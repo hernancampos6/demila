@@ -1691,5 +1691,331 @@ const products = [
     "type": "Sweater",
     "knit": "Punto",
     "details": "Cuello redondo · manga amplia"
+  },
+  {
+    "id": "SW-015",
+    "name": "Chaleco Chloe",
+    "audience": "mujer",
+    "garment": "chompas",
+    "image": "mujer/SW-015_chaleco-chloe-camel.jpg",
+    "images": [
+      "mujer/SW-015_chaleco-chloe-camel.jpg",
+      "mujer/SW-015_chaleco-chloe-gris.jpg",
+      "mujer/SW-015_chaleco-chloe-guinda.jpg"
+    ],
+    "colors": [
+      "Camel",
+      "Gris",
+      "Guinda"
+    ],
+    "type": "Chaleco",
+    "knit": "Punto",
+    "details": "Cuello V · trenzas"
+  },
+  {
+    "id": "SW-016",
+    "name": "Sweater Emilia",
+    "audience": "mujer",
+    "garment": "chompas",
+    "image": "mujer/SW-016_sweater-emilia-gris.jpg",
+    "images": [
+      "mujer/SW-016_sweater-emilia-gris.jpg",
+      "mujer/SW-016_sweater-emilia-negro.jpg",
+      "mujer/SW-016_sweater-emilia-verde.jpg"
+    ],
+    "colors": [
+      "Gris",
+      "Negro",
+      "Verde"
+    ],
+    "type": "Sweater",
+    "knit": "Punto",
+    "details": "Cuello alto · trenzas"
+  },
+  {
+    "id": "SW-017",
+    "name": "Chaleco Maje",
+    "audience": "mujer",
+    "garment": "chompas",
+    "image": "mujer/SW-017_chaleco-maje-beige.jpg",
+    "images": [
+      "mujer/SW-017_chaleco-maje-beige.jpg",
+      "mujer/SW-017_chaleco-maje-negro.jpg",
+      "mujer/SW-017_chaleco-maje-verde.jpg"
+    ],
+    "colors": [
+      "Beige",
+      "Negro",
+      "Verde"
+    ],
+    "type": "Chaleco",
+    "knit": "Punto",
+    "details": "Cuello V · textura"
+  },
+  {
+    "id": "SW-018",
+    "name": "Sweater Olivia",
+    "audience": "mujer",
+    "garment": "chompas",
+    "image": "mujer/SW-018_sweater-olivia-gris.jpg",
+    "images": [
+      "mujer/SW-018_sweater-olivia-gris.jpg",
+      "mujer/SW-018_sweater-olivia-guinda.jpg",
+      "mujer/SW-018_sweater-olivia-negro.jpg"
+    ],
+    "colors": [
+      "Gris",
+      "Guinda",
+      "Negro"
+    ],
+    "type": "Sweater",
+    "knit": "Punto",
+    "details": "Cuello redondo · liso"
+  },
+  {
+    "id": "SW-019",
+    "name": "Sweater Seyra",
+    "audience": "mujer",
+    "garment": "chompas",
+    "image": "mujer/SW-019_sweater-seyra-azul.jpg",
+    "images": [
+      "mujer/SW-019_sweater-seyra-azul.jpg",
+      "mujer/SW-019_sweater-seyra-camel.jpg",
+      "mujer/SW-019_sweater-seyra-verde-oliva.jpg"
+    ],
+    "colors": [
+      "Azul",
+      "Camel",
+      "Verde oliva"
+    ],
+    "type": "Sweater",
+    "knit": "Punto",
+    "details": "Cuello alto · raglán"
+  },
+  {
+    "id": "SW-020",
+    "name": "Sweater Floral Jacquard",
+    "audience": "mujer",
+    "garment": "chompas",
+    "image": "mujer/SW-020_sweater-floral-jacquard-camel.jpg",
+    "images": [
+      "mujer/SW-020_sweater-floral-jacquard-camel.jpg",
+      "mujer/SW-020_sweater-floral-jacquard-rosa.jpg"
+    ],
+    "colors": [
+      "Camel",
+      "Rosa"
+    ],
+    "type": "Sweater",
+    "knit": "Punto",
+    "details": "Jacquard floral · raglán"
+  },
+  {
+    "id": "SW-021",
+    "name": "Sweater Bordado Floral",
+    "audience": "mujer",
+    "garment": "chompas",
+    "image": "mujer/SW-021_sweater-bordado-floral-beige.jpg",
+    "images": [
+      "mujer/SW-021_sweater-bordado-floral-beige.jpg"
+    ],
+    "colors": [
+      "Beige"
+    ],
+    "type": "Sweater",
+    "knit": "Punto",
+    "details": "Bordado floral en manga"
+  },
+  {
+    "id": "SW-022",
+    "name": "Sweater Bordado Verde",
+    "audience": "mujer",
+    "garment": "chompas",
+    "image": "mujer/SW-022_sweater-bordado-verde-verde.jpg",
+    "images": [
+      "mujer/SW-022_sweater-bordado-verde-verde.jpg"
+    ],
+    "colors": [
+      "Verde"
+    ],
+    "type": "Sweater",
+    "knit": "Punto",
+    "details": "Cuello alto · bordado floral"
+  },
+  {
+    "id": "SW-023",
+    "name": "Chaleco Calado Café",
+    "audience": "mujer",
+    "garment": "chompas",
+    "image": "mujer/SW-023_chaleco-calado-cafe-cafe.jpg",
+    "images": [
+      "mujer/SW-023_chaleco-calado-cafe-cafe.jpg"
+    ],
+    "colors": [
+      "Café"
+    ],
+    "type": "Chaleco",
+    "knit": "Punto",
+    "details": "Calado · sin mangas"
+  },
+  {
+    "id": "SW-024",
+    "name": "Sweater Rayas Oversize",
+    "audience": "mujer",
+    "garment": "chompas",
+    "image": "mujer/SW-024_sweater-rayas-oversize-blanco-y-negro.jpg",
+    "images": [
+      "mujer/SW-024_sweater-rayas-oversize-blanco-y-negro.jpg"
+    ],
+    "colors": [
+      "Blanco y negro"
+    ],
+    "type": "Sweater",
+    "knit": "Punto",
+    "details": "Rayas · oversize"
+  },
+  {
+    "id": "CD-007",
+    "name": "Cardigan Vivi",
+    "audience": "mujer",
+    "garment": "cardigans",
+    "image": "mujer/CD-007_cardigan-vivi-beige.jpg",
+    "images": [
+      "mujer/CD-007_cardigan-vivi-beige.jpg",
+      "mujer/CD-007_cardigan-vivi-celeste.jpg",
+      "mujer/CD-007_cardigan-vivi-negro.jpg"
+    ],
+    "colors": [
+      "Beige",
+      "Celeste",
+      "Negro"
+    ],
+    "type": "Cardigan",
+    "knit": "Punto",
+    "details": "Cable · botones"
+  },
+  {
+    "id": "CD-008",
+    "name": "Cardigan Bordado Burdeos",
+    "audience": "mujer",
+    "garment": "cardigans",
+    "image": "mujer/CD-008_cardigan-bordado-burdeos-camel.jpg",
+    "images": [
+      "mujer/CD-008_cardigan-bordado-burdeos-camel.jpg"
+    ],
+    "colors": [
+      "Camel"
+    ],
+    "type": "Cardigan",
+    "knit": "Punto",
+    "details": "Bordado floral · botones"
+  },
+  {
+    "id": "CD-009",
+    "name": "Cardigan Bordado Olivo",
+    "audience": "mujer",
+    "garment": "cardigans",
+    "image": "mujer/CD-009_cardigan-bordado-olivo-verde-oliva.jpg",
+    "images": [
+      "mujer/CD-009_cardigan-bordado-olivo-verde-oliva.jpg"
+    ],
+    "colors": [
+      "Verde oliva"
+    ],
+    "type": "Cardigan",
+    "knit": "Punto",
+    "details": "Bordado crema · botones"
+  },
+  {
+    "id": "TP-006",
+    "name": "Top Allegra",
+    "audience": "mujer",
+    "garment": "top",
+    "image": "mujer/TP-006_top-allegra-blanco.jpg",
+    "images": [
+      "mujer/TP-006_top-allegra-blanco.jpg",
+      "mujer/TP-006_top-allegra-celeste.jpg",
+      "mujer/TP-006_top-allegra-negro.jpg"
+    ],
+    "colors": [
+      "Blanco",
+      "Celeste",
+      "Negro"
+    ],
+    "type": "Top",
+    "knit": "Punto",
+    "details": "Canalé · tirantes"
+  },
+  {
+    "id": "TP-007",
+    "name": "Top Calado Oliva",
+    "audience": "mujer",
+    "garment": "top",
+    "image": "mujer/TP-007_top-calado-oliva-verde-oliva.jpg",
+    "images": [
+      "mujer/TP-007_top-calado-oliva-verde-oliva.jpg"
+    ],
+    "colors": [
+      "Verde oliva"
+    ],
+    "type": "Top",
+    "knit": "Punto",
+    "details": "Calado · cuello alto sin mangas"
+  },
+  {
+    "id": "TP-008",
+    "name": "Top Manga Volante",
+    "audience": "mujer",
+    "garment": "top",
+    "image": "mujer/TP-008_top-manga-volante-beige.jpg",
+    "images": [
+      "mujer/TP-008_top-manga-volante-beige.jpg",
+      "mujer/TP-008_top-manga-volante-verde-esmeralda.jpg"
+    ],
+    "colors": [
+      "Beige",
+      "Verde esmeralda"
+    ],
+    "type": "Top",
+    "knit": "Punto",
+    "details": "Manga volante"
+  },
+  {
+    "id": "VF-001",
+    "name": "Vestido Mara",
+    "audience": "mujer",
+    "garment": "vestidos",
+    "image": "mujer/VF-001_vestido-mara-camel.jpg",
+    "images": [
+      "mujer/VF-001_vestido-mara-camel.jpg",
+      "mujer/VF-001_vestido-mara-gris.jpg",
+      "mujer/VF-001_vestido-mara-negro.jpg"
+    ],
+    "colors": [
+      "Camel",
+      "Gris",
+      "Negro"
+    ],
+    "type": "Vestido",
+    "knit": "Punto",
+    "details": "Canalé · midi"
+  },
+  {
+    "id": "VF-002",
+    "name": "Falda Estrella",
+    "audience": "mujer",
+    "garment": "vestidos",
+    "image": "mujer/VF-002_falda-estrella-negra.jpg",
+    "images": [
+      "mujer/VF-002_falda-estrella-negra.jpg",
+      "mujer/VF-002_falda-estrella-verde.jpg"
+    ],
+    "colors": [
+      "Negra",
+      "Verde"
+    ],
+    "type": "Falda",
+    "knit": "Punto",
+    "details": "Canalé · midi"
   }
 ];
