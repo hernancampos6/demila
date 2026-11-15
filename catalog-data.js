@@ -2000,18 +2000,19 @@ const products = [
     "name": "Falda Estrella",
     "audience": "mujer",
     "garment": "vestidos",
-    "image": "mujer/VF-002_falda-estrella-negra.jpg",
+    "image": "mujer/VF-002_falda-estrella-beige.jpg",
     "images": [
-      "mujer/VF-002_falda-estrella-negra.jpg",
-      "mujer/VF-002_falda-estrella-verde.jpg"
+      "mujer/VF-002_falda-estrella-beige.jpg",
+      "mujer/VF-002_falda-estrella-negra.jpg"
     ],
     "colors": [
-      "Negra",
-      "Verde"
+      "Beige",
+      "Negra"
     ],
     "type": "Falda",
     "knit": "Punto",
-    "details": "Canalé · midi"
+    "details": "Canalé · midi",
+    "season": "verano"
   },
   {
     "id": "VF-003",
