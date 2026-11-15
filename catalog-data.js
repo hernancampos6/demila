@@ -45,9 +45,8 @@ const products = [
     "name": "Polo Calado",
     "audience": "mujer",
     "garment": "top",
-    "image": "IMG_3448.JPEG",
+    "image": "mujer/PL-001_polo-calado-rojo.jpg",
     "images": [
-      "IMG_3448.JPEG",
       "mujer/PL-001_polo-calado-rojo.jpg",
       "mujer/PL-001_polo-calado-mostaza.jpg"
     ],
