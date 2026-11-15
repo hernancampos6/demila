@@ -44,7 +44,7 @@ const products = [
     "id": "PL-001",
     "name": "Polo Calado",
     "audience": "mujer",
-    "garment": "polo",
+    "garment": "top",
     "image": "IMG_3448.JPEG",
     "images": [
       "IMG_3448.JPEG",
@@ -204,7 +204,7 @@ const products = [
     "id": "PL-002",
     "name": "Polo Trenzas",
     "audience": "mujer",
-    "garment": "polo",
+    "garment": "top",
     "image": "10B0CB71-D14D-44AB-BBD6-0A034AC2894B.JPG",
     "images": [
       "10B0CB71-D14D-44AB-BBD6-0A034AC2894B.JPG"
