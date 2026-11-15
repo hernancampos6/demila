@@ -1995,7 +1995,8 @@ const products = [
     ],
     "type": "Top",
     "knit": "Calado",
-    "details": "Tirantes finos · escote V con encaje · detalle calado"
+    "details": "Tirantes finos · escote V con encaje · detalle calado",
+    "season": "verano"
   },
   {
     "id": "VF-004",
@@ -2011,7 +2012,8 @@ const products = [
     ],
     "type": "Falda",
     "knit": "Punto",
-    "details": "Canalé · textura pointelle · midi"
+    "details": "Canalé · textura pointelle · midi",
+    "season": "verano"
   },
   {
     "id": "SW-025",
