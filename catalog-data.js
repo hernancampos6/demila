@@ -170,9 +170,8 @@ const products = [
     "audience": "mujer",
     "garment": "top",
     "season": "verano",
-    "image": "mujer/TP-001_top-canale-celeste.jpg",
+    "image": "mujer/TP-001_top-canale-menta.jpg",
     "images": [
-      "mujer/TP-001_top-canale-celeste.jpg",
       "mujer/TP-001_top-canale-menta.jpg",
       "mujer/TP-001_top-canale-camel.jpg"
     ],
