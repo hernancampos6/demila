@@ -2070,5 +2070,37 @@ const products = [
     "type": "Conjunto",
     "knit": "Punto",
     "details": "Top manga corta · falda midi"
+  },
+  {
+    "id": "TP-009",
+    "name": "Top Alma",
+    "audience": "mujer",
+    "garment": "top",
+    "image": "mujer/TP-009_top-alma-beige.jpg",
+    "images": [
+      "mujer/TP-009_top-alma-beige.jpg"
+    ],
+    "colors": [
+      "Beige"
+    ],
+    "type": "Top",
+    "knit": "Punto",
+    "details": "Crochet · mangas de volante"
+  },
+  {
+    "id": "CD-010",
+    "name": "Abrigo Cinturón",
+    "audience": "mujer",
+    "garment": "cardigans",
+    "image": "mujer/CD-010_abrigo-cinturon-camel.jpg",
+    "images": [
+      "mujer/CD-010_abrigo-cinturon-camel.jpg"
+    ],
+    "colors": [
+      "Camel"
+    ],
+    "type": "Abrigo",
+    "knit": "Punto",
+    "details": "Punto · cinturón · largo"
   }
 ];
