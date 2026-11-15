@@ -1636,7 +1636,8 @@ const products = [
     ],
     "type": "Top",
     "knit": "Punto",
-    "details": "Cuello alto sin mangas · calado"
+    "details": "Cuello alto sin mangas · calado",
+    "season": "verano"
   },
   {
     "id": "SW-010",
@@ -1940,7 +1941,8 @@ const products = [
     ],
     "type": "Top",
     "knit": "Punto",
-    "details": "Canalé · tirantes"
+    "details": "Canalé · tirantes",
+    "season": "verano"
   },
   {
     "id": "TP-007",
@@ -2050,7 +2052,8 @@ const products = [
     ],
     "type": "Top",
     "knit": "Punto",
-    "details": "Crochet · mangas de volante"
+    "details": "Crochet · mangas de volante",
+    "season": "verano"
   },
   {
     "id": "CD-010",
