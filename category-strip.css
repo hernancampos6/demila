@@ -2,7 +2,7 @@
 .garment-filters::-webkit-scrollbar{display:none}
 .garment-chip{flex:0 0 auto;width:84px;display:flex;flex-direction:column;align-items:center;gap:8px;border:0;background:none;padding:0;cursor:pointer;color:#5b4a36;font:500 11px var(--mono)}
 .garment-circle{width:72px;height:72px;border-radius:50%;overflow:hidden;background:#eee4d6;border:2px solid transparent;display:grid;place-items:center;transition:border-color .2s}
-.garment-circle img{width:100%;height:100%;object-fit:cover;display:block}
+.garment-circle img{width:100%;height:100%;object-fit:cover;display:block;transform:scale(.8)}
 .garment-all{font:500 12px var(--mono);color:#5b4a36}
 .garment-chip:hover .garment-circle,.garment-chip:focus-visible .garment-circle,.garment-chip.is-active .garment-circle{border-color:#a9512d}
 .garment-chip:focus-visible{outline:none}
