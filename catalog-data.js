@@ -224,16 +224,30 @@ const products = [
     "garment": "chompas",
     "image": "IMG_2417.JPG",
     "images": [
-      "IMG_2417.JPG",
-      "mujer/SW-004_sweater-cuello-alto-cafe.jpg"
+      "IMG_2417.JPG"
     ],
     "colors": [
-      "Verde olivo",
-      "Café"
+      "Verde olivo"
     ],
     "type": "Sweater",
     "knit": "Trenzas",
     "details": "Cuello alto · trenza integral · puño ancho"
+  },
+  {
+    "id": "SW-014",
+    "name": "Sweater Cuello Alto Waffle",
+    "audience": "mujer",
+    "garment": "chompas",
+    "image": "mujer/SW-014_sweater-cuello-alto-waffle-cafe.jpg",
+    "images": [
+      "mujer/SW-014_sweater-cuello-alto-waffle-cafe.jpg"
+    ],
+    "colors": [
+      "Café"
+    ],
+    "type": "Sweater",
+    "knit": "Punto",
+    "details": "Cuello alto · tejido waffle · manga amplia"
   },
   {
     "id": "CD-003",
