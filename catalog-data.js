@@ -1720,10 +1720,12 @@ const products = [
     "garment": "chompas",
     "image": "mujer/SW-008_sweater-liso-verde-oscuro.jpg",
     "images": [
-      "mujer/SW-008_sweater-liso-verde-oscuro.jpg"
+      "mujer/SW-008_sweater-liso-verde-oscuro.jpg",
+      "mujer/SW-008_sweater-liso-beige.jpg"
     ],
     "colors": [
-      "Verde oscuro"
+      "Verde oscuro",
+      "Beige"
     ],
     "type": "Sweater",
     "knit": "Punto",
