@@ -832,22 +832,6 @@ const products = [
     "details": "Tejido de punto · confirma tallas y colores"
   },
   {
-    "id": "HO-007",
-    "name": "Chompa Rayas Multicolor",
-    "audience": "hombre",
-    "garment": "chompas",
-    "image": "hombre/HO-007_chompa-rayas-multicolor.jpg",
-    "images": [
-      "hombre/HO-007_chompa-rayas-multicolor.jpg"
-    ],
-    "colors": [
-      "Azul marino"
-    ],
-    "type": "Chompa",
-    "knit": "Rayas",
-    "details": "Tejido de punto · confirma tallas y colores"
-  },
-  {
     "id": "HO-009",
     "name": "Chaleco Liso",
     "audience": "hombre",
@@ -893,22 +877,6 @@ const products = [
     ],
     "type": "Chompa",
     "knit": "Jacquard",
-    "details": "Tejido de punto · confirma tallas y colores"
-  },
-  {
-    "id": "HO-012",
-    "name": "Chompa Raglán Tejido",
-    "audience": "hombre",
-    "garment": "chompas",
-    "image": "hombre/HO-012_chompa-raglan-tejido.jpg",
-    "images": [
-      "hombre/HO-012_chompa-raglan-tejido.jpg"
-    ],
-    "colors": [
-      "Gris/negro"
-    ],
-    "type": "Chompa",
-    "knit": "Punto liso",
     "details": "Tejido de punto · confirma tallas y colores"
   },
   {
@@ -1073,22 +1041,6 @@ const products = [
     "details": "Tejido de punto · confirma tallas y colores"
   },
   {
-    "id": "HO-023",
-    "name": "Chompa Larga Melange",
-    "audience": "hombre",
-    "garment": "chompas",
-    "image": "hombre/HO-023_chompa-larga-melange.jpg",
-    "images": [
-      "hombre/HO-023_chompa-larga-melange.jpg"
-    ],
-    "colors": [
-      "Negro/gris"
-    ],
-    "type": "Chompa",
-    "knit": "Melange",
-    "details": "Tejido de punto · confirma tallas y colores"
-  },
-  {
     "id": "HO-024",
     "name": "Chompa Rayas Horizontales",
     "audience": "hombre",
@@ -1233,22 +1185,6 @@ const products = [
     "details": "Tejido de punto · confirma tallas y colores"
   },
   {
-    "id": "HO-033",
-    "name": "Chompa Trenzado Bloques",
-    "audience": "hombre",
-    "garment": "chompas",
-    "image": "hombre/HO-033_chompa-trenzado-bloques.jpg",
-    "images": [
-      "hombre/HO-033_chompa-trenzado-bloques.jpg"
-    ],
-    "colors": [
-      "Vino/gris"
-    ],
-    "type": "Chompa",
-    "knit": "Trenzas",
-    "details": "Tejido de punto · confirma tallas y colores"
-  },
-  {
     "id": "HO-034",
     "name": "Chompa Cuello Redondo Gris Claro",
     "audience": "hombre",
@@ -1278,22 +1214,6 @@ const products = [
     ],
     "type": "Chompa",
     "knit": "Punto liso",
-    "details": "Tejido de punto · confirma tallas y colores"
-  },
-  {
-    "id": "HO-036",
-    "name": "Chompa Jacquard Marino",
-    "audience": "hombre",
-    "garment": "chompas",
-    "image": "hombre/HO-036_chompa-jacquard-marino.jpg",
-    "images": [
-      "hombre/HO-036_chompa-jacquard-marino.jpg"
-    ],
-    "colors": [
-      "Marino/rojo"
-    ],
-    "type": "Chompa",
-    "knit": "Jacquard",
     "details": "Tejido de punto · confirma tallas y colores"
   },
   {
@@ -1329,38 +1249,6 @@ const products = [
     "details": "Tejido de punto · confirma tallas y colores"
   },
   {
-    "id": "HO-039",
-    "name": "Cardigan Largo",
-    "audience": "hombre",
-    "garment": "chompas",
-    "image": "hombre/HO-039_cardigan-largo-gris.jpg",
-    "images": [
-      "hombre/HO-039_cardigan-largo-gris.jpg"
-    ],
-    "colors": [
-      "Gris melange"
-    ],
-    "type": "Cárdigan",
-    "knit": "Punto liso",
-    "details": "Tejido de punto · confirma tallas y colores"
-  },
-  {
-    "id": "HO-040",
-    "name": "Chompa Cuello Zip",
-    "audience": "hombre",
-    "garment": "chompas",
-    "image": "hombre/HO-040_chompa-cuello-zip-gris.jpg",
-    "images": [
-      "hombre/HO-040_chompa-cuello-zip-gris.jpg"
-    ],
-    "colors": [
-      "Gris"
-    ],
-    "type": "Chompa",
-    "knit": "Punto liso",
-    "details": "Tejido de punto · confirma tallas y colores"
-  },
-  {
     "id": "HO-041",
     "name": "Chompa Rayas Vino Marino",
     "audience": "hombre",
@@ -1390,22 +1278,6 @@ const products = [
     ],
     "type": "Chompa",
     "knit": "Rayas",
-    "details": "Tejido de punto · confirma tallas y colores"
-  },
-  {
-    "id": "HO-043",
-    "name": "Chompa Bloques Azul",
-    "audience": "hombre",
-    "garment": "chompas",
-    "image": "hombre/HO-043_chompa-bloques-azul.jpg",
-    "images": [
-      "hombre/HO-043_chompa-bloques-azul.jpg"
-    ],
-    "colors": [
-      "Azul marino"
-    ],
-    "type": "Chompa",
-    "knit": "Punto liso",
     "details": "Tejido de punto · confirma tallas y colores"
   },
   {
@@ -1486,22 +1358,6 @@ const products = [
     ],
     "type": "Chompa",
     "knit": "Jacquard",
-    "details": "Tejido de punto · confirma tallas y colores"
-  },
-  {
-    "id": "HO-049",
-    "name": "Chompa Rayas Marino",
-    "audience": "hombre",
-    "garment": "chompas",
-    "image": "hombre/HO-049_chompa-rayas-marino-blanco.jpg",
-    "images": [
-      "hombre/HO-049_chompa-rayas-marino-blanco.jpg"
-    ],
-    "colors": [
-      "Marino/blanco"
-    ],
-    "type": "Chompa",
-    "knit": "Rayas",
     "details": "Tejido de punto · confirma tallas y colores"
   },
   {
