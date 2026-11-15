@@ -120,7 +120,8 @@ const products = [
     ],
     "type": "Conjunto",
     "knit": "Crochet",
-    "details": "Cardigan calado y short · tejido abierto"
+    "details": "Cardigan calado y short · tejido abierto",
+    "season": "verano"
   },
   {
     "id": "ST-005",
@@ -136,7 +137,8 @@ const products = [
     ],
     "type": "Conjunto",
     "knit": "Crochet",
-    "details": "Top calado y falda maxi · amarre lateral"
+    "details": "Top calado y falda maxi · amarre lateral",
+    "season": "verano"
   },
   {
     "id": "ST-002",
