@@ -1740,10 +1740,12 @@ const products = [
     "garment": "top",
     "image": "mujer/TP-004_top-coral-coral.jpg",
     "images": [
-      "mujer/TP-004_top-coral-coral.jpg"
+      "mujer/TP-004_top-coral-coral.jpg",
+      "mujer/TP-004_top-coral-beige.jpg"
     ],
     "colors": [
-      "Coral"
+      "Coral",
+      "Beige"
     ],
     "type": "Top",
     "knit": "Punto",
