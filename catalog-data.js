@@ -337,7 +337,7 @@ const products = [
   },
   {
     "id": "NI-030",
-    "name": "Chompa Fair Isle",
+    "name": "Chompa Mateo",
     "audience": "ninos",
     "garment": "chompas",
     "image": "ninos/NI-030_fair-isle-verde.jpg",
