@@ -677,9 +677,8 @@ const products = [
     "name": "Chompa Cielo",
     "audience": "ninos",
     "garment": "chompas",
-    "image": "ninos/NI-023_chompa-cielo.jpg",
+    "image": "ninos/NI-023_alilado.jpg",
     "images": [
-      "ninos/NI-023_chompa-cielo.jpg",
       "ninos/NI-023_alilado.jpg",
       "ninos/NI-023_hueso.jpg"
     ],
@@ -696,10 +695,9 @@ const products = [
     "name": "Chompa Jack",
     "audience": "ninos",
     "garment": "chompas",
-    "image": "ninos/NI-024_chompa-jack.jpg",
+    "image": "ninos/NI-024_acero-vertical.jpg",
     "images": [
-      "ninos/NI-024_chompa-jack.jpg",
-      "ninos/NI-024_acero.jpg"
+      "ninos/NI-024_acero-vertical.jpg"
     ],
     "colors": [
       "Acero"
@@ -713,9 +711,9 @@ const products = [
     "name": "Chompa Luna",
     "audience": "ninos",
     "garment": "chompas",
-    "image": "ninos/NI-025_chompa-luna.jpg",
+    "image": "ninos/NI-025_chompa-luna-original.jpg",
     "images": [
-      "ninos/NI-025_chompa-luna.jpg"
+      "ninos/NI-025_chompa-luna-original.jpg"
     ],
     "colors": [
       "Rosado",
