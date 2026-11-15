@@ -1645,7 +1645,6 @@ const products = [
     "details": "Cuello redondo · silueta oversize"
   },
   {
-    "id": "TP-003",
     "name": "Top Halter",
     "audience": "mujer",
     "garment": "top",
