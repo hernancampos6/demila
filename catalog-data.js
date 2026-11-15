@@ -1645,21 +1645,6 @@ const products = [
     "details": "Cuello redondo · silueta oversize"
   },
   {
-    "name": "Top Halter",
-    "audience": "mujer",
-    "garment": "top",
-    "image": "mujer/TP-003_top-halter-caf.jpg",
-    "images": [
-      "mujer/TP-003_top-halter-caf.jpg"
-    ],
-    "colors": [
-      "Café"
-    ],
-    "type": "Top",
-    "knit": "Punto",
-    "details": "Cuello halter · silueta ajustada"
-  },
-  {
     "id": "CD-006",
     "name": "Cardigan Oversize",
     "audience": "mujer",
