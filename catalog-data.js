@@ -1947,24 +1947,6 @@ const products = [
     "details": "Calado · cuello alto sin mangas"
   },
   {
-    "id": "TP-008",
-    "name": "Top Manga Volante",
-    "audience": "mujer",
-    "garment": "top",
-    "image": "mujer/TP-008_top-manga-volante-beige.jpg",
-    "images": [
-      "mujer/TP-008_top-manga-volante-beige.jpg",
-      "mujer/TP-008_top-manga-volante-verde-esmeralda.jpg"
-    ],
-    "colors": [
-      "Beige",
-      "Verde esmeralda"
-    ],
-    "type": "Top",
-    "knit": "Punto",
-    "details": "Manga volante"
-  },
-  {
     "id": "VF-001",
     "name": "Vestido Mara",
     "audience": "mujer",
@@ -2008,10 +1990,10 @@ const products = [
     "name": "Vestido Escote Cuadrado",
     "audience": "mujer",
     "garment": "vestidos",
-    "image": "mujer/VF-003_vestido-escote-cuadrado-negro.jpg",
+    "image": "mujer/VF-003_vestido-escote-cuadrado-verde-oliva.jpg",
     "images": [
-      "mujer/VF-003_vestido-escote-cuadrado-negro.jpg",
       "mujer/VF-003_vestido-escote-cuadrado-verde-oliva.jpg",
+      "mujer/VF-003_vestido-escote-cuadrado-negro.jpg",
       "mujer/VF-003_vestido-escote-cuadrado-camel.jpg"
     ],
     "colors": [
