@@ -1,14 +1,18 @@
-.category-strip{background:#f8f5ed;border-bottom:1px solid #dfd3c0;padding:18px clamp(20px,4vw,68px) 16px;overflow:hidden}
-.category-strip-list{display:flex;justify-content:center;gap:clamp(14px,3vw,34px);overflow-x:auto;scrollbar-width:none}
-.category-strip-list::-webkit-scrollbar{display:none}
-.category-chip{flex:0 0 auto;width:86px;display:flex;flex-direction:column;align-items:center;gap:8px;border:0;background:none;padding:0;cursor:pointer;color:#5b4a36;font:500 11px var(--mono)}
-.category-circle{width:76px;height:76px;border-radius:50%;overflow:hidden;background:#eee4d6;border:2px solid transparent;transition:border-color .2s}
-.category-circle img{width:100%;height:100%;object-fit:cover;display:block}
-.category-chip:hover .category-circle,.category-chip:focus-visible .category-circle{border-color:#a9512d}
-.category-chip:focus-visible{outline:none}
-.category-label{text-align:center;line-height:1.3}
-@media(max-width:900px){.category-strip-list{justify-content:flex-start}}
-@media(max-width:500px){.category-chip{width:72px}.category-circle{width:62px;height:62px}.category-label{font-size:10px}}
-
+.garment-filters{display:flex;flex-wrap:nowrap;gap:14px;overflow-x:auto;scrollbar-width:none;padding:4px 2px 6px}
+.garment-filters::-webkit-scrollbar{display:none}
+.garment-chip{flex:0 0 auto;width:84px;display:flex;flex-direction:column;align-items:center;gap:8px;border:0;background:none;padding:0;cursor:pointer;color:#5b4a36;font:500 11px var(--mono)}
+.garment-circle{width:72px;height:72px;border-radius:50%;overflow:hidden;background:#eee4d6;border:2px solid transparent;display:grid;place-items:center;transition:border-color .2s}
+.garment-circle img{width:100%;height:100%;object-fit:cover;display:block}
+.garment-all{font:500 12px var(--mono);color:#5b4a36}
+.garment-chip:hover .garment-circle,.garment-chip:focus-visible .garment-circle,.garment-chip.is-active .garment-circle{border-color:#a9512d}
+.garment-chip:focus-visible{outline:none}
+.garment-chip.is-active .garment-label{color:#a9512d;font-weight:600}
+.garment-label{text-align:center;line-height:1.3}
+.season-filter{margin-top:2px}
+.season-filter[hidden]{display:none}
+.season-pill{border:1px solid #d4c5b1;background:#fffaf4;color:#5b4a36;padding:9px 14px;font:500 11px var(--mono);cursor:pointer}
+.season-pill:hover{background:#eee4d6;border-color:#b86d42}
+.season-pill.is-active{background:#a9512d;border-color:#a9512d;color:#fff}
+@media(max-width:500px){.garment-chip{width:70px}.garment-circle{width:60px;height:60px}.garment-label{font-size:10px}}
 #catalogo,#uniformes,#personalizado,#historia,#proceso{scroll-margin-top:140px}
 @media(max-width:500px){#catalogo,#uniformes,#personalizado,#historia,#proceso{scroll-margin-top:110px}}
