@@ -1704,10 +1704,12 @@ const products = [
     "garment": "cardigans",
     "image": "mujer/CD-006_cardigan-oversize-vino.jpg",
     "images": [
-      "mujer/CD-006_cardigan-oversize-vino.jpg"
+      "mujer/CD-006_cardigan-oversize-vino.jpg",
+      "mujer/CD-006_cardigan-oversize-verde-olivo.jpg"
     ],
     "colors": [
-      "Vino"
+      "Vino",
+      "Verde olivo"
     ],
     "type": "Cardigan",
     "knit": "Punto",
