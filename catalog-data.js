@@ -2040,38 +2040,6 @@ const products = [
     "details": "Canalé · escote cuadrado"
   },
   {
-    "id": "ST-006",
-    "name": "Conjunto Halter",
-    "audience": "mujer",
-    "garment": "sets",
-    "image": "mujer/ST-006_conjunto-halter-gris-y-negro.jpg",
-    "images": [
-      "mujer/ST-006_conjunto-halter-gris-y-negro.jpg"
-    ],
-    "colors": [
-      "Gris y negro"
-    ],
-    "type": "Conjunto",
-    "knit": "Punto",
-    "details": "Top halter cuello alto · falda canalé"
-  },
-  {
-    "id": "ST-007",
-    "name": "Conjunto Manga Corta",
-    "audience": "mujer",
-    "garment": "sets",
-    "image": "mujer/ST-007_conjunto-manga-corta-beige.jpg",
-    "images": [
-      "mujer/ST-007_conjunto-manga-corta-beige.jpg"
-    ],
-    "colors": [
-      "Beige"
-    ],
-    "type": "Conjunto",
-    "knit": "Punto",
-    "details": "Top manga corta · falda midi"
-  },
-  {
     "id": "TP-009",
     "name": "Top Alma",
     "audience": "mujer",
@@ -2102,5 +2070,21 @@ const products = [
     "type": "Abrigo",
     "knit": "Punto",
     "details": "Punto · cinturón · largo"
+  },
+  {
+    "id": "VF-004",
+    "name": "Falda Pointelle",
+    "audience": "mujer",
+    "garment": "vestidos",
+    "image": "mujer/VF-004_falda-pointelle-beige.jpg",
+    "images": [
+      "mujer/VF-004_falda-pointelle-beige.jpg"
+    ],
+    "colors": [
+      "Beige"
+    ],
+    "type": "Falda",
+    "knit": "Punto",
+    "details": "Canalé · textura pointelle · midi"
   }
 ];
