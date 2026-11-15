@@ -102,14 +102,50 @@ const products = [
     "image": "IMG_3438.JPEG",
     "images": [
       "IMG_3438.JPEG",
-      "IMG_3447.JPEG"
+      "IMG_3447.JPEG",
+      "mujer/ST-001_conjunto-calado-beige.jpg",
+      "mujer/ST-001_conjunto-calado-negro.jpg"
+    ],
+    "colors": [
+      "Crudo",
+      "Beige",
+      "Negro"
+    ],
+    "type": "Conjunto",
+    "knit": "Calado",
+    "details": "Top y falda · cintura ajustable · detalle calado"
+  },
+  {
+    "id": "ST-004",
+    "name": "Conjunto Crochet Cardigan",
+    "audience": "mujer",
+    "garment": "sets",
+    "image": "mujer/ST-004_conjunto-crochet-cardigan-crudo.jpg",
+    "images": [
+      "mujer/ST-004_conjunto-crochet-cardigan-crudo.jpg"
     ],
     "colors": [
       "Crudo"
     ],
     "type": "Conjunto",
-    "knit": "Calado",
-    "details": "Top y falda · cintura ajustable · detalle calado"
+    "knit": "Crochet",
+    "details": "Cardigan calado y short · tejido abierto"
+  },
+  {
+    "id": "ST-005",
+    "name": "Conjunto Crochet Maxi",
+    "audience": "mujer",
+    "garment": "sets",
+    "image": "mujer/ST-005_conjunto-crochet-maxi-crudo.jpg",
+    "images": [
+      "mujer/ST-005_conjunto-crochet-maxi-crudo.jpg"
+    ],
+    "colors": [
+      "Crudo"
+    ],
+    "type": "Conjunto",
+    "knit": "Crochet",
+    "details": "Top calado y falda maxi · amarre lateral"
   },
   {
     "id": "ST-002",
