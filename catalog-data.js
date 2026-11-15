@@ -2019,5 +2019,57 @@ const products = [
     "type": "Falda",
     "knit": "Punto",
     "details": "Canalé · midi"
+  },
+  {
+    "id": "VF-003",
+    "name": "Vestido Escote Cuadrado",
+    "audience": "mujer",
+    "garment": "vestidos",
+    "image": "mujer/VF-003_vestido-escote-cuadrado-negro.jpg",
+    "images": [
+      "mujer/VF-003_vestido-escote-cuadrado-negro.jpg",
+      "mujer/VF-003_vestido-escote-cuadrado-verde-oliva.jpg",
+      "mujer/VF-003_vestido-escote-cuadrado-camel.jpg"
+    ],
+    "colors": [
+      "Negro",
+      "Verde oliva",
+      "Camel"
+    ],
+    "type": "Vestido",
+    "knit": "Punto",
+    "details": "Canalé · escote cuadrado"
+  },
+  {
+    "id": "ST-006",
+    "name": "Conjunto Halter",
+    "audience": "mujer",
+    "garment": "sets",
+    "image": "mujer/ST-006_conjunto-halter-gris-y-negro.jpg",
+    "images": [
+      "mujer/ST-006_conjunto-halter-gris-y-negro.jpg"
+    ],
+    "colors": [
+      "Gris y negro"
+    ],
+    "type": "Conjunto",
+    "knit": "Punto",
+    "details": "Top halter cuello alto · falda canalé"
+  },
+  {
+    "id": "ST-007",
+    "name": "Conjunto Manga Corta",
+    "audience": "mujer",
+    "garment": "sets",
+    "image": "mujer/ST-007_conjunto-manga-corta-beige.jpg",
+    "images": [
+      "mujer/ST-007_conjunto-manga-corta-beige.jpg"
+    ],
+    "colors": [
+      "Beige"
+    ],
+    "type": "Conjunto",
+    "knit": "Punto",
+    "details": "Top manga corta · falda midi"
   }
 ];
