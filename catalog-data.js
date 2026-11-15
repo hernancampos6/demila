@@ -24,10 +24,12 @@ const products = [
     "garment": "cardigans",
     "image": "AB31AE83-8204-4AB1-9046-5F95EEAA3CFF.JPG",
     "images": [
-      "AB31AE83-8204-4AB1-9046-5F95EEAA3CFF.JPG"
+      "AB31AE83-8204-4AB1-9046-5F95EEAA3CFF.JPG",
+      "mujer/CD-001_cardigan-ondas-blanco.jpg"
     ],
     "colors": [
-      "Taupe"
+      "Taupe",
+      "Blanco"
     ],
     "type": "Cardigan",
     "knit": "Trenzas y calado",
@@ -60,10 +62,14 @@ const products = [
     "image": "image00011.JPG",
     "images": [
       "image00011.JPG",
-      "image00013.JPG"
+      "image00013.JPG",
+      "mujer/SW-009_sweater-trenzado-crudo.jpg",
+      "mujer/SW-011_sweater-v-blanco.jpg"
     ],
     "colors": [
-      "Azul acero"
+      "Azul acero",
+      "Crudo",
+      "Blanco"
     ],
     "type": "Sweater",
     "knit": "Trenzas",
@@ -166,16 +172,18 @@ const products = [
     "image": "mujer/TP-001_top-canale-menta.jpg",
     "images": [
       "mujer/TP-001_top-canale-menta.jpg",
-      "mujer/TP-001_top-canale-camel.jpg",
       "mujer/TP-001_top-canale-coral.jpg",
-      "mujer/TP-001_top-canale-beige.jpg"
+      "mujer/TP-001_top-canale-beige.jpg",
+      "mujer/TP-001_top-canale-grupo.jpg",
+      "mujer/TP-001_top-canale-rosa.jpg"
     ],
     "colors": [
       "Celeste",
       "Menta",
       "Camel",
       "Coral",
-      "Beige"
+      "Beige",
+      "Rosa"
     ],
     "type": "Top",
     "knit": "Canalé",
@@ -205,10 +213,13 @@ const products = [
     "garment": "top",
     "image": "10B0CB71-D14D-44AB-BBD6-0A034AC2894B.JPG",
     "images": [
-      "10B0CB71-D14D-44AB-BBD6-0A034AC2894B.JPG"
+      "10B0CB71-D14D-44AB-BBD6-0A034AC2894B.JPG",
+      "mujer/PL-002_polo-trenzas-blanco.jpg",
+      "mujer/PL-002_polo-trenzas-grupo.jpg"
     ],
     "colors": [
-      "Celeste"
+      "Celeste",
+      "Blanco"
     ],
     "type": "Polo",
     "knit": "Trenzas y calado",
@@ -221,7 +232,9 @@ const products = [
     "garment": "chompas",
     "image": "IMG_2417.JPG",
     "images": [
-      "IMG_2417.JPG"
+      "IMG_2417.JPG",
+      "SW-004_sweater-cuello-alto-beige.jpg",
+      "SW-004_sweater-cuello-alto-verde.jpg"
     ],
     "colors": [
       "Verde olivo"
@@ -1358,22 +1371,6 @@ const products = [
     "details": "Tejido de punto · confirma tallas y colores"
   },
   {
-    "id": "HO-050",
-    "name": "Chompa Negra Liso",
-    "audience": "hombre",
-    "garment": "chompas",
-    "image": "hombre/HO-050_chompa-negra-liso.jpg",
-    "images": [
-      "hombre/HO-050_chompa-negra-liso.jpg"
-    ],
-    "colors": [
-      "Negro"
-    ],
-    "type": "Chompa",
-    "knit": "Punto liso",
-    "details": "Tejido de punto · confirma tallas y colores"
-  },
-  {
     "id": "HO-051",
     "name": "Chompa Negra Bolsillo",
     "audience": "hombre",
@@ -1419,22 +1416,6 @@ const products = [
     ],
     "type": "Chompa",
     "knit": "Melange",
-    "details": "Tejido de punto · confirma tallas y colores"
-  },
-  {
-    "id": "HO-054",
-    "name": "Cardigan Rayas",
-    "audience": "hombre",
-    "garment": "chompas",
-    "image": "hombre/HO-054_cardigan-rayas-marino.jpg",
-    "images": [
-      "hombre/HO-054_cardigan-rayas-marino.jpg"
-    ],
-    "colors": [
-      "Marino/beige"
-    ],
-    "type": "Cárdigan",
-    "knit": "Rayas",
     "details": "Tejido de punto · confirma tallas y colores"
   },
   {
@@ -1586,24 +1567,6 @@ const products = [
     "details": "Cuello redondo · punto liso"
   },
   {
-    "id": "SW-009",
-    "name": "Sweater Trenzado",
-    "audience": "mujer",
-    "garment": "chompas",
-    "image": "mujer/SW-009_sweater-trenzado-crudo.jpg",
-    "images": [
-      "mujer/SW-009_sweater-trenzado-crudo.jpg",
-      "mujer/SW-011_sweater-v-blanco.jpg"
-    ],
-    "colors": [
-      "Crudo",
-      "Blanco"
-    ],
-    "type": "Sweater",
-    "knit": "Punto",
-    "details": "Escote V · trenzas · manga amplia"
-  },
-  {
     "id": "TP-005",
     "name": "Top Calado",
     "audience": "mujer",
@@ -1612,7 +1575,8 @@ const products = [
     "images": [
       "mujer/TP-005_top-calado-celeste.jpg",
       "mujer/TP-005_top-calado-rosa.jpg",
-      "mujer/TP-005_top-calado-verde-olivo.jpg"
+      "mujer/TP-005_top-calado-verde-olivo.jpg",
+      "mujer/TP-005_top-calado-grupo.jpg"
     ],
     "colors": [
       "Celeste",
@@ -1701,7 +1665,10 @@ const products = [
     "images": [
       "mujer/SW-016_sweater-emilia-gris.jpg",
       "mujer/SW-016_sweater-emilia-negro.jpg",
-      "mujer/SW-016_sweater-emilia-verde.jpg"
+      "mujer/SW-016_sweater-emilia-verde.jpg",
+      "mujer/SW-016_sweater-emilia-verde-modelo.jpg",
+      "mujer/SW-016_sweater-emilia-gris-modelo.jpg",
+      "mujer/SW-016_sweater-emilia-negro-modelo.jpg"
     ],
     "colors": [
       "Gris",
@@ -1761,7 +1728,10 @@ const products = [
     "images": [
       "mujer/SW-019_sweater-seyra-azul.jpg",
       "mujer/SW-019_sweater-seyra-camel.jpg",
-      "mujer/SW-019_sweater-seyra-verde-oliva.jpg"
+      "mujer/SW-019_sweater-seyra-verde-oliva.jpg",
+      "mujer/SW-019_sweater-seyra-azul-modelo.jpg",
+      "mujer/SW-019_sweater-seyra-camel-modelo.jpg",
+      "mujer/SW-019_sweater-seyra-verde-oliva-modelo.jpg"
     ],
     "colors": [
       "Azul",
@@ -1798,30 +1768,16 @@ const products = [
     "image": "mujer/SW-021_sweater-bordado-floral-beige.jpg",
     "images": [
       "mujer/SW-021_sweater-bordado-floral-beige.jpg",
-      "mujer/SW-021_sweater-bordado-floral-beige-2.jpg"
-    ],
-    "colors": [
-      "Beige"
-    ],
-    "type": "Sweater",
-    "knit": "Punto",
-    "details": "Bordado floral en manga"
-  },
-  {
-    "id": "SW-022",
-    "name": "Sweater Bordado Verde",
-    "audience": "mujer",
-    "garment": "chompas",
-    "image": "mujer/SW-022_sweater-bordado-verde-verde.jpg",
-    "images": [
+      "mujer/SW-021_sweater-bordado-floral-beige-2.jpg",
       "mujer/SW-022_sweater-bordado-verde-verde.jpg"
     ],
     "colors": [
+      "Beige",
       "Verde"
     ],
     "type": "Sweater",
     "knit": "Punto",
-    "details": "Cuello alto · bordado floral"
+    "details": "Bordado floral en manga"
   },
   {
     "id": "SW-023",
@@ -1951,11 +1907,11 @@ const products = [
     "name": "Vestido Mara",
     "audience": "mujer",
     "garment": "vestidos",
-    "image": "mujer/VF-001_vestido-mara-camel.jpg",
+    "image": "mujer/VF-001_vestido-mara-camel-2.jpg",
     "images": [
-      "mujer/VF-001_vestido-mara-camel.jpg",
-      "mujer/VF-001_vestido-mara-gris.jpg",
-      "mujer/VF-001_vestido-mara-negro.jpg"
+      "mujer/VF-001_vestido-mara-camel-2.jpg",
+      "mujer/VF-001_vestido-mara-gris-2.jpg",
+      "mujer/VF-001_vestido-mara-negro-2.jpg"
     ],
     "colors": [
       "Camel",
@@ -2023,6 +1979,24 @@ const products = [
     "season": "verano"
   },
   {
+    "id": "TP-010",
+    "name": "Top Tirantes Calado",
+    "audience": "mujer",
+    "garment": "top",
+    "image": "mujer/TP-010_top-tirantes-calado-palo-rosa.jpg",
+    "images": [
+      "mujer/TP-010_top-tirantes-calado-palo-rosa.jpg",
+      "mujer/TP-010_top-tirantes-calado-crudo.jpg"
+    ],
+    "colors": [
+      "Palo rosa",
+      "Crudo"
+    ],
+    "type": "Top",
+    "knit": "Calado",
+    "details": "Tirantes finos · escote V con encaje · detalle calado"
+  },
+  {
     "id": "CD-010",
     "name": "Abrigo Cinturón",
     "audience": "mujer",
@@ -2062,13 +2036,13 @@ const products = [
     "image": "mujer/SW-025_sweater-oversize-texturado-rojo.jpg",
     "images": [
       "mujer/SW-025_sweater-oversize-texturado-rojo.jpg",
-      "mujer/SW-025_sweater-oversize-texturado-blanco-crudo.jpg",
-      "mujer/SW-025_sweater-oversize-texturado-camel.jpg"
+      "mujer/SW-025_sweater-oversize-texturado-camel.jpg",
+      "mujer/SW-025_sweater-oversize-texturado-fucsia.jpg"
     ],
     "colors": [
       "Rojo",
-      "Blanco crudo",
-      "Camel"
+      "Camel",
+      "Fucsia"
     ],
     "type": "Sweater",
     "knit": "Punto",
