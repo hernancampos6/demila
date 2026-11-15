@@ -1784,9 +1784,10 @@ const products = [
     "name": "Chaleco Calado Café",
     "audience": "mujer",
     "garment": "chompas",
-    "image": "mujer/SW-023_chaleco-calado-cafe-cafe.jpg",
+    "image": "mujer/SW-023_chaleco-calado-cafe-2.jpg",
     "images": [
-      "mujer/SW-023_chaleco-calado-cafe-cafe.jpg"
+      "mujer/SW-023_chaleco-calado-cafe-2.jpg",
+      "mujer/SW-023_chaleco-calado-cafe-3.jpg"
     ],
     "colors": [
       "Café"
@@ -1997,22 +1998,6 @@ const products = [
     "details": "Tirantes finos · escote V con encaje · detalle calado"
   },
   {
-    "id": "CD-010",
-    "name": "Abrigo Cinturón",
-    "audience": "mujer",
-    "garment": "cardigans",
-    "image": "mujer/CD-010_abrigo-cinturon-camel.jpg",
-    "images": [
-      "mujer/CD-010_abrigo-cinturon-camel.jpg"
-    ],
-    "colors": [
-      "Camel"
-    ],
-    "type": "Abrigo",
-    "knit": "Punto",
-    "details": "Punto · cinturón · largo"
-  },
-  {
     "id": "VF-004",
     "name": "Falda Pointelle",
     "audience": "mujer",
@@ -2047,5 +2032,23 @@ const products = [
     "type": "Sweater",
     "knit": "Punto",
     "details": "Cuello redondo · textura horizontal · manga amplia"
+  },
+  {
+    "id": "CD-010",
+    "name": "Abrigo Cinturón",
+    "audience": "mujer",
+    "garment": "chompas",
+    "image": "mujer/CD-010_abrigo-cinturon-1.jpg",
+    "images": [
+      "mujer/CD-010_abrigo-cinturon-1.jpg",
+      "mujer/CD-010_abrigo-cinturon-2.jpg",
+      "mujer/CD-010_abrigo-cinturon-camel.jpg"
+    ],
+    "colors": [
+      "Camel"
+    ],
+    "type": "Abrigo",
+    "knit": "Punto",
+    "details": "Punto · cinturón · largo"
   }
 ];
