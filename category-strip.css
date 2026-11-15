@@ -16,3 +16,4 @@
 @media(max-width:500px){.garment-chip{width:70px}.garment-circle{width:60px;height:60px}.garment-label{font-size:10px}}
 #catalogo,#uniformes,#personalizado,#historia,#proceso{scroll-margin-top:140px}
 @media(max-width:500px){#catalogo,#uniformes,#personalizado,#historia,#proceso{scroll-margin-top:110px}}
+@media(max-width:500px){.catalog-tools{flex-direction:column;align-items:stretch;gap:12px}.catalog-filter-stack{min-width:0;width:100%}.garment-filters{width:100%;min-width:0}.catalog-tools>p{margin:0}}

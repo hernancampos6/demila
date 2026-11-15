@@ -604,9 +604,7 @@ const products = [
     "garment": "chompas",
     "image": "ninos/NI-019_chompa-noel-nueva.jpg",
     "images": [
-      "ninos/NI-019_chompa-noel-nueva.jpg",
-      "ninos/NI-019_azul-rojo-hueso.jpg",
-      "ninos/NI-019_gris-rojo-hueso.jpg"
+      "ninos/NI-019_chompa-noel-nueva.jpg"
     ],
     "colors": [
       "Gris/rojo/hueso",
@@ -641,10 +639,12 @@ const products = [
     "name": "Chompa Alex",
     "audience": "ninos",
     "garment": "chompas",
-    "image": "ninos/NI-021_chompa-alex.jpg",
+    "image": "ninos/NI-021_celeste-bunny-hd.jpg",
     "images": [
-      "ninos/NI-021_chompa-alex.jpg",
-      "ninos/NI-021_celeste.jpg"
+      "ninos/NI-021_celeste-bunny-hd.jpg",
+      "ninos/NI-021_celeste.jpg",
+      "ninos/NI-021_beige-cardigan.jpg",
+      "ninos/NI-021_bebe-celeste-persona.jpg"
     ],
     "colors": [
       "Celeste",
@@ -662,7 +662,8 @@ const products = [
     "image": "ninos/NI-022_beige-hueso-vertical.jpg",
     "images": [
       "ninos/NI-022_beige-hueso-vertical.jpg",
-      "ninos/NI-022_verde-hueso-vertical.jpg"
+      "ninos/NI-022_verde-hueso-vertical.jpg",
+      "ninos/NI-022_beige-verde-mix.jpg"
     ],
     "colors": [
       "Verde/hueso",
@@ -711,9 +712,11 @@ const products = [
     "name": "Chompa Luna",
     "audience": "ninos",
     "garment": "chompas",
-    "image": "ninos/NI-025_chompa-luna-original.jpg",
+    "image": "ninos/NI-025_rosado-cable-a.jpg",
     "images": [
-      "ninos/NI-025_chompa-luna-original.jpg"
+      "ninos/NI-025_rosado-cable-a.jpg",
+      "ninos/NI-025_rosado-cable-b.jpg",
+      "ninos/NI-025_yogurt-cable.jpg"
     ],
     "colors": [
       "Rosado",
@@ -2094,5 +2097,22 @@ const products = [
     "type": "Abrigo",
     "knit": "Punto",
     "details": "Punto · cinturón · largo"
+  },
+  {
+    "id": "NI-030",
+    "name": "Chompa Fair Isle",
+    "audience": "ninos",
+    "garment": "chompas",
+    "image": "ninos/NI-030_fair-isle-verde.jpg",
+    "images": [
+      "ninos/NI-030_fair-isle-verde.jpg",
+      "ninos/NI-030_fair-isle-gorro.jpg"
+    ],
+    "colors": [
+      "Verde/beige"
+    ],
+    "type": "Chompa",
+    "knit": "Punto",
+    "details": "Tejido de punto para bebé · confirma tallas y colores"
   }
 ];
