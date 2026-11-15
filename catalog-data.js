@@ -166,12 +166,16 @@ const products = [
     "image": "mujer/TP-001_top-canale-menta.jpg",
     "images": [
       "mujer/TP-001_top-canale-menta.jpg",
-      "mujer/TP-001_top-canale-camel.jpg"
+      "mujer/TP-001_top-canale-camel.jpg",
+      "mujer/TP-001_top-canale-coral.jpg",
+      "mujer/TP-001_top-canale-beige.jpg"
     ],
     "colors": [
       "Celeste",
       "Menta",
-      "Camel"
+      "Camel",
+      "Coral",
+      "Beige"
     ],
     "type": "Top",
     "knit": "Canalé",
@@ -1581,24 +1585,6 @@ const products = [
     "type": "Sweater",
     "knit": "Punto",
     "details": "Cuello redondo · punto liso"
-  },
-  {
-    "id": "TP-004",
-    "name": "Top Coral",
-    "audience": "mujer",
-    "garment": "top",
-    "image": "mujer/TP-004_top-coral-coral.jpg",
-    "images": [
-      "mujer/TP-004_top-coral-coral.jpg",
-      "mujer/TP-004_top-coral-beige.jpg"
-    ],
-    "colors": [
-      "Coral",
-      "Beige"
-    ],
-    "type": "Top",
-    "knit": "Punto",
-    "details": "Tirantes · punto liso"
   },
   {
     "id": "SW-009",
