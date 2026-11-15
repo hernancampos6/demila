@@ -516,8 +516,7 @@ const products = [
     "garment": "chompas",
     "image": "ninos/NI-013_chompa-benjamin.jpg",
     "images": [
-      "ninos/NI-013_chompa-benjamin.jpg",
-      "ninos/NI-013_celeste.jpg"
+      "ninos/NI-013_chompa-benjamin.jpg"
     ],
     "colors": [
       "Celeste",
