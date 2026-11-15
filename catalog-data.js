@@ -173,11 +173,13 @@ const products = [
     "image": "mujer/TP-001_top-canale-celeste.jpg",
     "images": [
       "mujer/TP-001_top-canale-celeste.jpg",
-      "mujer/TP-001_top-canale-menta.jpg"
+      "mujer/TP-001_top-canale-menta.jpg",
+      "mujer/TP-001_top-canale-camel.jpg"
     ],
     "colors": [
       "Celeste",
-      "Menta"
+      "Menta",
+      "Camel"
     ],
     "type": "Top",
     "knit": "Canalé",
@@ -245,12 +247,14 @@ const products = [
       "IMG_3527.JPG",
       "IMG_3755.JPG",
       "IMG_3895.JPG",
-      "IMG_3543.JPG"
+      "IMG_3543.JPG",
+      "mujer/CD-003_cardigan-calado-lila.jpg"
     ],
     "colors": [
       "Amarillo",
       "Rosa",
-      "Celeste"
+      "Celeste",
+      "Lila"
     ],
     "type": "Cardigan",
     "knit": "Calado y trenzas",
@@ -1751,10 +1755,14 @@ const products = [
     "garment": "top",
     "image": "mujer/TP-005_top-calado-celeste.jpg",
     "images": [
-      "mujer/TP-005_top-calado-celeste.jpg"
+      "mujer/TP-005_top-calado-celeste.jpg",
+      "mujer/TP-005_top-calado-rosa.jpg",
+      "mujer/TP-005_top-calado-verde-olivo.jpg"
     ],
     "colors": [
-      "Celeste"
+      "Celeste",
+      "Rosa",
+      "Verde olivo"
     ],
     "type": "Top",
     "knit": "Punto",
