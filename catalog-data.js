@@ -1863,9 +1863,10 @@ const products = [
     "name": "Sweater Rayas Oversize",
     "audience": "mujer",
     "garment": "chompas",
-    "image": "mujer/SW-024_sweater-rayas-oversize-blanco-y-negro.jpg",
+    "image": "mujer/SW-024_sweater-rayas-oversize-blanco-y-negro-1.jpg",
     "images": [
-      "mujer/SW-024_sweater-rayas-oversize-blanco-y-negro.jpg"
+      "mujer/SW-024_sweater-rayas-oversize-blanco-y-negro-1.jpg",
+      "mujer/SW-024_sweater-rayas-oversize-blanco-y-negro-2.jpg"
     ],
     "colors": [
       "Blanco y negro"
