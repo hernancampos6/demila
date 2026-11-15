@@ -1809,7 +1809,8 @@ const products = [
     "garment": "chompas",
     "image": "mujer/SW-021_sweater-bordado-floral-beige.jpg",
     "images": [
-      "mujer/SW-021_sweater-bordado-floral-beige.jpg"
+      "mujer/SW-021_sweater-bordado-floral-beige.jpg",
+      "mujer/SW-021_sweater-bordado-floral-beige-2.jpg"
     ],
     "colors": [
       "Beige"
