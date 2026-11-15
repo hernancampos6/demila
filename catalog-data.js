@@ -336,6 +336,139 @@ const products = [
     "details": "Cuello redondo · hombros contrastantes · silueta clásica"
   },
   {
+    "id": "NI-030",
+    "name": "Chompa Fair Isle",
+    "audience": "ninos",
+    "garment": "chompas",
+    "image": "ninos/NI-030_fair-isle-verde.jpg",
+    "images": [
+      "ninos/NI-030_fair-isle-verde.jpg",
+      "ninos/NI-030_fair-isle-gorro.jpg"
+    ],
+    "colors": [
+      "Verde/beige"
+    ],
+    "type": "Chompa",
+    "knit": "Punto",
+    "details": "Tejido de punto para bebé · confirma tallas y colores"
+  },
+  {
+    "id": "NI-025",
+    "name": "Chompa Luna",
+    "audience": "ninos",
+    "garment": "chompas",
+    "image": "ninos/NI-025_rosado-cable-a.jpg",
+    "images": [
+      "ninos/NI-025_rosado-cable-a.jpg",
+      "ninos/NI-025_rosado-cable-b.jpg",
+      "ninos/NI-025_yogurt-cable.jpg"
+    ],
+    "colors": [
+      "Rosado",
+      "Yogurt"
+    ],
+    "type": "Chompa",
+    "knit": "Punto",
+    "details": "Tejido de punto para bebé · confirma tallas y colores"
+  },
+  {
+    "id": "NI-021",
+    "name": "Chompa Alex",
+    "audience": "ninos",
+    "garment": "chompas",
+    "image": "ninos/NI-021_celeste-bunny-hd.jpg",
+    "images": [
+      "ninos/NI-021_celeste-bunny-hd.jpg",
+      "ninos/NI-021_celeste.jpg",
+      "ninos/NI-021_beige-cardigan.jpg",
+      "ninos/NI-021_bebe-celeste-persona.jpg"
+    ],
+    "colors": [
+      "Celeste",
+      "Beige"
+    ],
+    "type": "Chompa",
+    "knit": "Punto",
+    "details": "Tejido de punto para bebé · confirma tallas y colores"
+  },
+  {
+    "id": "NI-017",
+    "name": "Chompa Erick Dralon",
+    "audience": "ninos",
+    "garment": "chompas",
+    "image": "ninos/NI-017_menta-cable.jpg",
+    "images": [
+      "ninos/NI-017_menta-cable.jpg",
+      "ninos/NI-017_beige.jpg",
+      "ninos/NI-017_verde.jpg"
+    ],
+    "colors": [
+      "Celeste",
+      "Verde",
+      "Beige"
+    ],
+    "type": "Chompa",
+    "knit": "Punto",
+    "details": "Tejido de punto para bebé · confirma tallas y colores"
+  },
+  {
+    "id": "NI-016",
+    "name": "Chompa Erick Tacto",
+    "audience": "ninos",
+    "garment": "chompas",
+    "image": "ninos/NI-016_celeste-cable.jpg",
+    "images": [
+      "ninos/NI-016_celeste-cable.jpg"
+    ],
+    "colors": [
+      "Celeste",
+      "Verde",
+      "Beige"
+    ],
+    "type": "Chompa",
+    "knit": "Punto",
+    "details": "Tejido de punto para bebé · confirma tallas y colores"
+  },
+  {
+    "id": "NI-014",
+    "name": "Conjunto Bruno Tacto",
+    "audience": "ninos",
+    "garment": "conjuntos",
+    "image": "ninos/NI-014_celeste-conjunto-nuevo.jpg",
+    "images": [
+      "ninos/NI-014_celeste-conjunto-nuevo.jpg",
+      "ninos/NI-015_verde-beige.jpg"
+    ],
+    "colors": [
+      "Verde/beige",
+      "Celeste/azul",
+      "Celeste",
+      "Beige",
+      "Azul marino"
+    ],
+    "type": "Conjunto",
+    "knit": "Punto",
+    "details": "Tejido de punto para bebé · confirma tallas y colores"
+  },
+  {
+    "id": "NI-005",
+    "name": "Conjunto Reyna",
+    "audience": "ninos",
+    "garment": "conjuntos",
+    "image": "ninos/NI-005_conjunto-reyna-nueva.jpg",
+    "images": [
+      "ninos/NI-005_conjunto-reyna-nueva.jpg"
+    ],
+    "colors": [
+      "Palo rosa",
+      "Rosado",
+      "Blanco"
+    ],
+    "type": "Conjunto",
+    "knit": "Punto",
+    "details": "Tejido de punto para bebé · confirma tallas y colores"
+  },
+  {
     "id": "NI-001",
     "name": "Conjunto bebé gris",
     "audience": "ninos",
@@ -374,24 +507,6 @@ const products = [
     "type": "Chompa",
     "knit": "Jersey",
     "details": "Cuello redondo · gráfico tejido frontal · acabados en rib"
-  },
-  {
-    "id": "NI-005",
-    "name": "Conjunto Reyna",
-    "audience": "ninos",
-    "garment": "conjuntos",
-    "image": "ninos/NI-005_conjunto-reyna-nueva.jpg",
-    "images": [
-      "ninos/NI-005_conjunto-reyna-nueva.jpg"
-    ],
-    "colors": [
-      "Palo rosa",
-      "Rosado",
-      "Blanco"
-    ],
-    "type": "Conjunto",
-    "knit": "Punto",
-    "details": "Tejido de punto para bebé · confirma tallas y colores"
   },
   {
     "id": "NI-006",
@@ -539,65 +654,6 @@ const products = [
     "details": "Tejido de punto para bebé · confirma tallas y colores"
   },
   {
-    "id": "NI-014",
-    "name": "Conjunto Bruno Tacto",
-    "audience": "ninos",
-    "garment": "conjuntos",
-    "image": "ninos/NI-014_celeste-conjunto-nuevo.jpg",
-    "images": [
-      "ninos/NI-014_celeste-conjunto-nuevo.jpg",
-      "ninos/NI-015_verde-beige.jpg"
-    ],
-    "colors": [
-      "Verde/beige",
-      "Celeste/azul",
-      "Celeste",
-      "Beige",
-      "Azul marino"
-    ],
-    "type": "Conjunto",
-    "knit": "Punto",
-    "details": "Tejido de punto para bebé · confirma tallas y colores"
-  },
-  {
-    "id": "NI-016",
-    "name": "Chompa Erick Tacto",
-    "audience": "ninos",
-    "garment": "chompas",
-    "image": "ninos/NI-016_celeste-cable.jpg",
-    "images": [
-      "ninos/NI-016_celeste-cable.jpg"
-    ],
-    "colors": [
-      "Celeste",
-      "Verde",
-      "Beige"
-    ],
-    "type": "Chompa",
-    "knit": "Punto",
-    "details": "Tejido de punto para bebé · confirma tallas y colores"
-  },
-  {
-    "id": "NI-017",
-    "name": "Chompa Erick Dralon",
-    "audience": "ninos",
-    "garment": "chompas",
-    "image": "ninos/NI-017_menta-cable.jpg",
-    "images": [
-      "ninos/NI-017_menta-cable.jpg",
-      "ninos/NI-017_beige.jpg",
-      "ninos/NI-017_verde.jpg"
-    ],
-    "colors": [
-      "Celeste",
-      "Verde",
-      "Beige"
-    ],
-    "type": "Chompa",
-    "knit": "Punto",
-    "details": "Tejido de punto para bebé · confirma tallas y colores"
-  },
-  {
     "id": "NI-019",
     "name": "Chompa Noel",
     "audience": "ninos",
@@ -631,26 +687,6 @@ const products = [
       "Beige"
     ],
     "type": "Chaleco",
-    "knit": "Punto",
-    "details": "Tejido de punto para bebé · confirma tallas y colores"
-  },
-  {
-    "id": "NI-021",
-    "name": "Chompa Alex",
-    "audience": "ninos",
-    "garment": "chompas",
-    "image": "ninos/NI-021_celeste-bunny-hd.jpg",
-    "images": [
-      "ninos/NI-021_celeste-bunny-hd.jpg",
-      "ninos/NI-021_celeste.jpg",
-      "ninos/NI-021_beige-cardigan.jpg",
-      "ninos/NI-021_bebe-celeste-persona.jpg"
-    ],
-    "colors": [
-      "Celeste",
-      "Beige"
-    ],
-    "type": "Chompa",
     "knit": "Punto",
     "details": "Tejido de punto para bebé · confirma tallas y colores"
   },
@@ -708,25 +744,6 @@ const products = [
     "details": "Tejido de punto para bebé · confirma tallas y colores"
   },
   {
-    "id": "NI-025",
-    "name": "Chompa Luna",
-    "audience": "ninos",
-    "garment": "chompas",
-    "image": "ninos/NI-025_rosado-cable-a.jpg",
-    "images": [
-      "ninos/NI-025_rosado-cable-a.jpg",
-      "ninos/NI-025_rosado-cable-b.jpg",
-      "ninos/NI-025_yogurt-cable.jpg"
-    ],
-    "colors": [
-      "Rosado",
-      "Yogurt"
-    ],
-    "type": "Chompa",
-    "knit": "Punto",
-    "details": "Tejido de punto para bebé · confirma tallas y colores"
-  },
-  {
     "id": "NI-026",
     "name": "Chompa Steffy",
     "audience": "ninos",
@@ -777,24 +794,6 @@ const products = [
       "Vino"
     ],
     "type": "Chompa",
-    "knit": "Punto",
-    "details": "Tejido de punto para bebé · confirma tallas y colores"
-  },
-  {
-    "id": "NI-029",
-    "name": "Conjunto Charlie",
-    "audience": "ninos",
-    "garment": "conjuntos",
-    "image": "ninos/NI-029_conjunto-charlie.jpg",
-    "images": [
-      "ninos/NI-029_conjunto-charlie.jpg"
-    ],
-    "colors": [
-      "Celeste",
-      "Verde",
-      "Beige"
-    ],
-    "type": "Conjunto",
     "knit": "Punto",
     "details": "Tejido de punto para bebé · confirma tallas y colores"
   },
@@ -2099,19 +2098,20 @@ const products = [
     "details": "Punto · cinturón · largo"
   },
   {
-    "id": "NI-030",
-    "name": "Chompa Fair Isle",
+    "id": "NI-029",
+    "name": "Conjunto Charlie",
     "audience": "ninos",
-    "garment": "chompas",
-    "image": "ninos/NI-030_fair-isle-verde.jpg",
+    "garment": "conjuntos",
+    "image": "ninos/NI-029_conjunto-charlie.jpg",
     "images": [
-      "ninos/NI-030_fair-isle-verde.jpg",
-      "ninos/NI-030_fair-isle-gorro.jpg"
+      "ninos/NI-029_conjunto-charlie.jpg"
     ],
     "colors": [
-      "Verde/beige"
+      "Celeste",
+      "Verde",
+      "Beige"
     ],
-    "type": "Chompa",
+    "type": "Conjunto",
     "knit": "Punto",
     "details": "Tejido de punto para bebé · confirma tallas y colores"
   }
