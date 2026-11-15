@@ -342,7 +342,10 @@ const products = [
     "garment": "conjuntos",
     "image": "ninos/IMG_0002.jpg",
     "images": [
-      "ninos/IMG_0002.jpg"
+      "ninos/IMG_0002.jpg",
+      "ninos/NI-001_gris-borgona-2.jpg",
+      "ninos/NI-001_gris-borgona-3.jpg",
+      "ninos/NI-001_gris-rosa-pantalon.jpg"
     ],
     "colors": [
       "Gris",
@@ -357,9 +360,9 @@ const products = [
     "name": "Chompa infantil estampada",
     "audience": "ninos",
     "garment": "chompas",
-    "image": "ninos/IMG_0011.jpg",
+    "image": "ninos/NI-004_gris-monstruo.jpg",
     "images": [
-      "ninos/IMG_0011.jpg",
+      "ninos/NI-004_gris-monstruo.jpg",
       "ninos/NI-018_cobalto.jpg"
     ],
     "colors": [
@@ -378,9 +381,9 @@ const products = [
     "name": "Conjunto Reyna",
     "audience": "ninos",
     "garment": "conjuntos",
-    "image": "ninos/NI-005_conjunto-reyna.jpg",
+    "image": "ninos/NI-005_conjunto-reyna-nueva.jpg",
     "images": [
-      "ninos/NI-005_conjunto-reyna.jpg",
+      "ninos/NI-005_conjunto-reyna-nueva.jpg",
       "ninos/NI-005_palo-rosa.jpg"
     ],
     "colors": [
@@ -397,9 +400,11 @@ const products = [
     "name": "Conjunto Patricia",
     "audience": "ninos",
     "garment": "conjuntos",
-    "image": "ninos/NI-006_blanco-lila.jpg",
+    "image": "ninos/NI-006_rosado-conjunto.jpg",
     "images": [
-      "ninos/NI-006_blanco-lila.jpg"
+      "ninos/NI-006_rosado-conjunto.jpg",
+      "ninos/NI-006_blanco-lila-conjunto.jpg",
+      "ninos/NI-006_durazno-gris-pantalon.jpg"
     ],
     "colors": [
       "Rosado",
@@ -432,9 +437,9 @@ const products = [
     "name": "Bolero Maya",
     "audience": "ninos",
     "garment": "chompas",
-    "image": "ninos/NI-008_bolero-maya.jpg",
+    "image": "ninos/NI-008_palo-rosa-volante.jpg",
     "images": [
-      "ninos/NI-008_bolero-maya.jpg",
+      "ninos/NI-008_palo-rosa-volante.jpg",
       "ninos/NI-008_palo-rosa.jpg"
     ],
     "colors": [
@@ -473,7 +478,7 @@ const products = [
     "images": [
       "ninos/NI-010_chompa-complices.jpg",
       "ninos/NI-010_fucsia.jpg",
-      "ninos/NI-010_rosado.jpg",
+      "ninos/NI-010_rosado-little-complices.jpg",
       "ninos/NI-010_verde-agua.jpg"
     ],
     "colors": [
@@ -508,9 +513,9 @@ const products = [
     "name": "Chompa Velero",
     "audience": "ninos",
     "garment": "chompas",
-    "image": "ninos/NI-012_chompa-velero.jpg",
+    "image": "ninos/NI-012_velero-conjunto.jpg",
     "images": [
-      "ninos/NI-012_chompa-velero.jpg"
+      "ninos/NI-012_velero-conjunto.jpg"
     ],
     "colors": [
       "Blanco/azul",
@@ -546,7 +551,7 @@ const products = [
     "images": [
       "ninos/NI-014_conjunto-bruno-tacto.jpg",
       "ninos/NI-014_celeste-azul.jpg",
-      "ninos/IMG_0007.jpg",
+      "ninos/NI-014_celeste-conjunto-nuevo.jpg",
       "ninos/NI-015_verde-beige.jpg"
     ],
     "colors": [
@@ -565,9 +570,9 @@ const products = [
     "name": "Chompa Erick Tacto",
     "audience": "ninos",
     "garment": "chompas",
-    "image": "ninos/NI-016_chompa-erick-tacto.jpg",
+    "image": "ninos/NI-016_celeste-cable.jpg",
     "images": [
-      "ninos/NI-016_chompa-erick-tacto.jpg",
+      "ninos/NI-016_celeste-cable.jpg",
       "ninos/NI-016_celeste.jpg"
     ],
     "colors": [
@@ -584,9 +589,9 @@ const products = [
     "name": "Chompa Erick Dralon",
     "audience": "ninos",
     "garment": "chompas",
-    "image": "ninos/NI-017_chompa-erick-dralon.jpg",
+    "image": "ninos/NI-017_menta-cable.jpg",
     "images": [
-      "ninos/NI-017_chompa-erick-dralon.jpg",
+      "ninos/NI-017_menta-cable.jpg",
       "ninos/NI-017_beige.jpg",
       "ninos/NI-017_verde.jpg"
     ],
@@ -604,9 +609,9 @@ const products = [
     "name": "Chompa Noel",
     "audience": "ninos",
     "garment": "chompas",
-    "image": "ninos/NI-019_chompa-noel.jpg",
+    "image": "ninos/NI-019_chompa-noel-nueva.jpg",
     "images": [
-      "ninos/NI-019_chompa-noel.jpg",
+      "ninos/NI-019_chompa-noel-nueva.jpg",
       "ninos/NI-019_azul-rojo-hueso.jpg",
       "ninos/NI-019_gris-rojo-hueso.jpg"
     ],
