@@ -169,21 +169,19 @@ const products = [
     "audience": "mujer",
     "garment": "top",
     "season": "verano",
-    "image": "mujer/TP-001_top-canale-menta.jpg",
+    "image": "mujer/TP-001_top-canale-beige.jpg",
     "images": [
+      "mujer/TP-001_top-canale-beige.jpg",
       "mujer/TP-001_top-canale-menta.jpg",
       "mujer/TP-001_top-canale-coral.jpg",
-      "mujer/TP-001_top-canale-beige.jpg",
-      "mujer/TP-001_top-canale-grupo.jpg",
-      "mujer/TP-001_top-canale-rosa.jpg"
+      "mujer/TP-001_top-canale-grupo.jpg"
     ],
     "colors": [
       "Celeste",
       "Menta",
       "Camel",
       "Coral",
-      "Beige",
-      "Rosa"
+      "Beige"
     ],
     "type": "Top",
     "knit": "Canalé",
@@ -1538,7 +1536,8 @@ const products = [
     "image": "mujer/CD-006_cardigan-oversize-vino.jpg",
     "images": [
       "mujer/CD-006_cardigan-oversize-vino.jpg",
-      "mujer/CD-006_cardigan-oversize-verde-olivo.jpg"
+      "mujer/CD-006_cardigan-oversize-verde-olivo.jpg",
+      "mujer/CD-006_cardigan-oversize-extra.jpg"
     ],
     "colors": [
       "Vino",
@@ -1661,14 +1660,14 @@ const products = [
     "name": "Sweater Emilia",
     "audience": "mujer",
     "garment": "chompas",
-    "image": "mujer/SW-016_sweater-emilia-gris.jpg",
+    "image": "mujer/SW-016_sweater-emilia-verde-modelo.jpg",
     "images": [
-      "mujer/SW-016_sweater-emilia-gris.jpg",
-      "mujer/SW-016_sweater-emilia-negro.jpg",
-      "mujer/SW-016_sweater-emilia-verde.jpg",
       "mujer/SW-016_sweater-emilia-verde-modelo.jpg",
       "mujer/SW-016_sweater-emilia-gris-modelo.jpg",
-      "mujer/SW-016_sweater-emilia-negro-modelo.jpg"
+      "mujer/SW-016_sweater-emilia-negro-modelo.jpg",
+      "mujer/SW-016_sweater-emilia-gris.jpg",
+      "mujer/SW-016_sweater-emilia-negro.jpg",
+      "mujer/SW-016_sweater-emilia-verde.jpg"
     ],
     "colors": [
       "Gris",
@@ -1724,14 +1723,14 @@ const products = [
     "name": "Sweater Seyra",
     "audience": "mujer",
     "garment": "chompas",
-    "image": "mujer/SW-019_sweater-seyra-azul.jpg",
+    "image": "mujer/SW-019_sweater-seyra-azul-modelo.jpg",
     "images": [
-      "mujer/SW-019_sweater-seyra-azul.jpg",
-      "mujer/SW-019_sweater-seyra-camel.jpg",
-      "mujer/SW-019_sweater-seyra-verde-oliva.jpg",
       "mujer/SW-019_sweater-seyra-azul-modelo.jpg",
       "mujer/SW-019_sweater-seyra-camel-modelo.jpg",
-      "mujer/SW-019_sweater-seyra-verde-oliva-modelo.jpg"
+      "mujer/SW-019_sweater-seyra-verde-oliva-modelo.jpg",
+      "mujer/SW-019_sweater-seyra-azul.jpg",
+      "mujer/SW-019_sweater-seyra-camel.jpg",
+      "mujer/SW-019_sweater-seyra-verde-oliva.jpg"
     ],
     "colors": [
       "Azul",
@@ -1999,6 +1998,24 @@ const products = [
     "season": "verano"
   },
   {
+    "id": "TP-011",
+    "name": "Top Canalé Sin Mangas",
+    "audience": "mujer",
+    "garment": "top",
+    "image": "mujer/TP-011_top-canale-sin-mangas-rosa.jpg",
+    "images": [
+      "mujer/TP-011_top-canale-sin-mangas-rosa.jpg",
+      "mujer/TP-011_top-canale-sin-mangas-camel.jpg"
+    ],
+    "colors": [
+      "Rosa",
+      "Camel"
+    ],
+    "type": "Top",
+    "knit": "Canalé",
+    "details": "Sin mangas · cuello redondo · canalé"
+  },
+  {
     "id": "VF-004",
     "name": "Falda Pointelle",
     "audience": "mujer",
@@ -2023,17 +2040,51 @@ const products = [
     "image": "mujer/SW-025_sweater-oversize-texturado-rojo.jpg",
     "images": [
       "mujer/SW-025_sweater-oversize-texturado-rojo.jpg",
-      "mujer/SW-025_sweater-oversize-texturado-camel.jpg",
-      "mujer/SW-025_sweater-oversize-texturado-fucsia.jpg"
+      "mujer/SW-025_sweater-oversize-texturado-camel.jpg"
     ],
     "colors": [
       "Rojo",
-      "Camel",
-      "Fucsia"
+      "Camel"
     ],
     "type": "Sweater",
     "knit": "Punto",
     "details": "Cuello redondo · textura horizontal · manga amplia"
+  },
+  {
+    "id": "SW-026",
+    "name": "Sweater Oversize Texturado Fucsia",
+    "audience": "mujer",
+    "garment": "chompas",
+    "image": "mujer/SW-026_sweater-oversize-texturado-fucsia.jpg",
+    "images": [
+      "mujer/SW-026_sweater-oversize-texturado-fucsia.jpg",
+      "mujer/SW-026_sweater-oversize-texturado-hueso.jpg"
+    ],
+    "colors": [
+      "Fucsia",
+      "Hueso"
+    ],
+    "type": "Sweater",
+    "knit": "Punto",
+    "details": "Cuello redondo · textura horizontal · manga amplia"
+  },
+  {
+    "id": "SW-027",
+    "name": "Sweater Baby Rabbit",
+    "audience": "mujer",
+    "garment": "chompas",
+    "image": "mujer/SW-027_sweater-baby-rabbit-hueso.jpg",
+    "images": [
+      "mujer/SW-027_sweater-baby-rabbit-hueso.jpg",
+      "mujer/SW-027_sweater-baby-rabbit-celeste.jpg"
+    ],
+    "colors": [
+      "Hueso",
+      "Celeste"
+    ],
+    "type": "Sweater",
+    "knit": "Punto",
+    "details": "Baby rabbit · canalé"
   },
   {
     "id": "CD-010",
