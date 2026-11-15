@@ -102,7 +102,6 @@ const products = [
     "image": "IMG_3438.JPEG",
     "images": [
       "IMG_3438.JPEG",
-      "IMG_3447.JPEG",
       "mujer/ST-001_conjunto-calado-beige.jpg",
       "mujer/ST-001_conjunto-calado-negro.jpg"
     ],
