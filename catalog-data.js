@@ -6,19 +6,12 @@ const products = [
     "name": "Sweater Oversize Canalé",
     "audience": "mujer",
     "garment": "chompas",
-    "image": "IMG_3473.JPG",
+    "image": "4cfbc19f-15ef-40ff-a95d-61e066cfa4cf.JPG",
     "images": [
-      "IMG_3473.JPG",
-      "4cfbc19f-15ef-40ff-a95d-61e066cfa4cf.JPG",
-      "mujer/SW-001_sweater-oversize-canale-rojo.jpg",
-      "mujer/SW-001_sweater-oversize-canale-blanco-crudo.jpg",
-      "mujer/SW-001_sweater-oversize-canale-camel.jpg"
+      "4cfbc19f-15ef-40ff-a95d-61e066cfa4cf.JPG"
     ],
     "colors": [
-      "Beige",
-      "Rojo",
-      "Blanco crudo",
-      "Camel"
+      "Beige"
     ],
     "type": "Sweater",
     "knit": "Canalé",
@@ -2086,5 +2079,25 @@ const products = [
     "type": "Falda",
     "knit": "Punto",
     "details": "Canalé · textura pointelle · midi"
+  },
+  {
+    "id": "SW-025",
+    "name": "Sweater Oversize Texturado",
+    "audience": "mujer",
+    "garment": "chompas",
+    "image": "mujer/SW-025_sweater-oversize-texturado-rojo.jpg",
+    "images": [
+      "mujer/SW-025_sweater-oversize-texturado-rojo.jpg",
+      "mujer/SW-025_sweater-oversize-texturado-blanco-crudo.jpg",
+      "mujer/SW-025_sweater-oversize-texturado-camel.jpg"
+    ],
+    "colors": [
+      "Rojo",
+      "Blanco crudo",
+      "Camel"
+    ],
+    "type": "Sweater",
+    "knit": "Punto",
+    "details": "Cuello redondo · textura horizontal · manga amplia"
   }
 ];
